@@ -1,2 +1,3 @@
 .claude/
 app/preview_*.webp
+cloudflare-worker/.wrangler/
