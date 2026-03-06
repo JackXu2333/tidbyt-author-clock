@@ -6245,10 +6245,15 @@ def _pad(n):
 def main(config):
     tz = config.get("timezone", DEFAULT_TZ)
 
-    now = time.now().in_location(tz)
+    time_override = config.get("time", "")
+    if len(time_override) == 5:
+        hour = int(time_override[0:2])
+        minute = int(time_override[3:5])
+    else:
+        now = time.now().in_location(tz)
+        hour = now.hour
+        minute = now.minute
 
-    hour = now.hour
-    minute = now.minute
     key = _pad(hour) + "_" + _pad(minute)
 
     entries = QUOTES.get(key, [])
