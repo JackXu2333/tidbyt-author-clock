@@ -1,0 +1,29 @@
+name: Push Author Clock
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'  # every 5 minutes
+  workflow_dispatch:        # allow manual trigger
+
+jobs:
+  push:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install pixlet
+        run: |
+          curl -fsSL https://github.com/tidbyt/pixlet/releases/latest/download/pixlet_linux_amd64.tar.gz \
+            -o pixlet.tar.gz
+          tar -xzf pixlet.tar.gz pixlet
+          chmod +x pixlet
+          sudo mv pixlet /usr/local/bin/
+
+      - name: Render and push
+        env:
+          TIDBYT_API_TOKEN: ${{ secrets.TIDBYT_API_TOKEN }}
+        run: |
+          pixlet render app/author_clock.star -o /tmp/author_clock.webp
+          pixlet push ***TIDBYT_DEVICE_ID*** \
+            --installation-id authorclock \
+            /tmp/author_clock.webp
