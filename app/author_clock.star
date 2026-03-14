@@ -5,7 +5,7 @@ QUOTES = {
         {"b": "At ", "t": "midnight", "a": " the entrances were thrown wide, and the rabble, s", "au": "Lew Wallace"},
         {"b": "rs in the south\u2014those now holding the curtains of ", "t": "midnight", "a": " over the Nile. But confess yourself surprised!\u201d", "au": "Lew Wallace"},
         {"b": "Ren said, \"If you go to the football field at ", "t": "midnight", "a": " on Halloween and say his name three times, his gh", "au": "William Kent Krueger"},
-        {"b": "friend, said Pastor Fritz softly, \"you who sit in ", "t": "midnight", "a": " darkness at midday, is this Jesus Christ a horn o", "au": "Edna Hong"},
+        {"b": "riend,\" said Pastor Fritz softly, \"you who sit in ", "t": "midnight", "a": " darkness at midday, is this Jesus Christ a horn o", "au": "Edna Hong"},
         {"b": "you bind his four paws, and then you take him at ", "t": "midnight", "a": " to a crossroads and you cry out in a loud voice:", "au": "Umberto Eco"},
         {"b": "it came to the shore where a man sat, wakeful at ", "t": "midnight", "a": ", to receive you.", "au": "C.S. Lewis"},
         {"b": "er occurred to her; and in the exciting idea of a ", "t": "midnight", "a": " escape she forgot her sleepiness.", "au": "C.S. Lewis"},
@@ -28,8 +28,8 @@ QUOTES = {
         {"b": "st September twelvemonth in writing that note, at ", "t": "twelve o\u2019clock", "a": " at night, on purpose to assure me that there was", "au": "Jane Austen"},
         {"b": "of adventure, and started back to Princeton about ", "t": "twelve o\u2019clock", "a": " in two machines. It had been a gay party and diff", "au": "F. Scott Fitzgerald"},
         {"b": "As ", "t": "midnight", "a": " was striking bronze blows upon the dusky air, Dor", "au": "Oscar Wilde"},
-        {"b": "But wait till I tell you, he said. \"We had a ", "t": "midnight", "a": " lunch too after all the jollification and when we", "au": "James Joyce"},
-        {"b": "Midnight, you said. What is ", "t": "midnight", "a": " to the young? And suddenly a festive blaze was fl", "au": "Vladimir Nabokov"},
+        {"b": "\"But wait till I tell you,\" he said. \"We had a ", "t": "midnight", "a": " lunch too after all the jollification and when we", "au": "James Joyce"},
+        {"b": "\"Midnight,\" you said. What is ", "t": "midnight", "a": " to the young? And suddenly a festive blaze was fl", "au": "Vladimir Nabokov"},
         {"b": "er with cryptic remarks like 'Patrolled perimeter ", "t": "12.00", "a": " pm, No Incident' and go to the office every fortn", "au": "Ike Oguine"},
         {"b": "'Tis the year's ", "t": "midnight", "a": ", and it is the day's, Lucy's, who scarce seven ho", "au": "John Donne"},
         {"b": "At ", "t": "midnight", "a": " his wife and daughter might still be bustling abo", "au": "Yasunari Kawabata"},
@@ -190,7 +190,7 @@ QUOTES = {
         {"b": "Stephen looked at his bedside clock. ", "t": "12:37 AM", "a": ".He went into the kitchen, and grabbed a Vanilla C", "au": "Ray Keating"},
     ],
     "00_38": [
-        {"b": "ight. You spoke to the porter at the main gate at ", "t": "twelve thirty-eight a.m.", "a": " Where were you between those times?", "au": "P.D. James"},
+        {"b": "ight. You spoke to the porter at the main gate at ", "t": "twelve thirty-eight a.m.", "a": " Where were you between those times?\"", "au": "P.D. James"},
         {"b": "days; for he'd entered the burning veil Thursday, ", "t": "thirty-eight minutes past midnight", "a": ". Yes. But keep cool. There's more at stake than t", "au": "Alfred Bester"},
         {"b": "looked at the Sony clock radio which said it was ", "t": "12:38 a.m.", "a": " The screams in his dream had been painfully, frig", "au": "G.V. Miller"},
     ],
@@ -200,7 +200,7 @@ QUOTES = {
     "00_40": [
         {"b": ". The train eventually pulled into his station at ", "t": "twelve-forty", "a": ".", "au": "Jeffrey Archer"},
         {"b": "n of the forensic pathologist who saw the body at ", "t": "twelve-forty", "a": " that Mrs. O'Keefe had died very shortly after her", "au": "P.D. James"},
-        {"b": "", "t": "Twenty minutes to one", "a": "? exclaimed Helen. \"My mother will certainly think", "au": "Sidney R. Kennedy"},
+        {"b": "\"", "t": "Twenty minutes to one", "a": "?\" exclaimed Helen. \"My mother will certainly thin", "au": "Sidney R. Kennedy"},
     ],
     "00_41": [
         {"b": "By the time he came back to his car, it was ", "t": "12:41 am", "a": ". I was standing outside my car, just waiting and", "au": "Geraldo Cruz"},
@@ -265,7 +265,7 @@ QUOTES = {
     ],
     "00_59": [
         {"b": "e silence.I looked at my wrist-watch. This showed ", "t": "one minute to one", "a": ". As I raised my eyes, an impatient clock somewher", "au": "Dornford Yates"},
-        {"b": "What time is it now? she said. \"", "t": "About one o\u2019clock", "a": ".\" \"In the morning?\" Herera\u2019s friend leered at her", "au": "Jonathan Frantzen"},
+        {"b": "\"What time is it now?\" she said. \"", "t": "About one o\u2019clock", "a": ".\" \"In the morning?\" Herera\u2019s friend leered at her", "au": "Jonathan Frantzen"},
         {"b": "It was ", "t": "nearly one o\u2019clock", "a": " when Sherlock Holmes returned from his excursion.", "au": "Sir Arthur Conan Doyle"},
         {"b": "she put that singular question to me. It was then ", "t": "nearly one o'clock", "a": ". All I could discern distinctly by the moonlight", "au": "Wilkie Collins"},
     ],
@@ -289,7 +289,7 @@ QUOTES = {
         {"b": "Being caught at ", "t": "one A.M.", "a": " in a bank\u2019s deposit vault while wearing a black s", "au": "Terry Pratchett"},
     ],
     "01_01": [
-        {"b": "What time is it now? she said. \"", "t": "About one o\u2019clock", "a": ".\" \"In the morning?\" Herera\u2019s friend leered at her", "au": "Jonathan Frantzen"},
+        {"b": "\"What time is it now?\" she said. \"", "t": "About one o\u2019clock", "a": ".\" \"In the morning?\" Herera\u2019s friend leered at her", "au": "Jonathan Frantzen"},
         {"b": "Thus it was that at ", "t": "one minute past one o'clock", "a": ", when a preternaturally self-respecting porter di", "au": "Louis Joseph Vance"},
     ],
     "01_02": [
@@ -303,7 +303,7 @@ QUOTES = {
         {"b": "The electric timepiece on the roofs marked ", "t": "four minutes past one", "a": " as they rattled past. What people were still awak", "au": "Arthur Cheney Train"},
     ],
     "01_05": [
-        {"b": "Certain, sir. It was just ", "t": "five minutes past one", "a": " when I drove into our mews. \"Now, then, be carefu", "au": "J.S. Fletcher"},
+        {"b": "\"Certain, sir. It was just ", "t": "five minutes past one", "a": " when I drove into our mews.\" \"Now, then, be caref", "au": "J.S. Fletcher"},
     ],
     "01_06": [
         {"b": "his watch. His call to the manor had been made at ", "t": "six minutes past one", "a": ".", "au": "P.D. James"},
@@ -322,7 +322,7 @@ QUOTES = {
         {"b": "est, upon a station platform in a foreign city at ", "t": "nine minutes past one", "a": " o'clock in the morning - but at length without th", "au": "Louis Joseph Vance"},
     ],
     "01_10": [
-        {"b": "s Makepiece checked the lights. That was at about ", "t": "ten past one", "a": ".", "au": "P.D. James"},
+        {"b": "s Makepiece checked the lights. That was at about ", "t": "ten past one", "a": ".\"", "au": "P.D. James"},
         {"b": "It was at ", "t": "ten minutes past one", "a": " by Bond\u2019s watch when, at the high table, the whol", "au": "Ian Fleming"},
         {"b": "February 26, Saturday - Richards went out ", "t": "1.10 am", "a": " and found it clearing a bit, so we got under way", "au": "Ernest Shackleton"},
     ],
@@ -388,6 +388,9 @@ QUOTES = {
         {"b": "ure. It had been generated at the Food 'N Fuel at ", "t": "1:27 A.M.", "a": " on January 1.", "au": "William Kent Krueger"},
         {"b": "At ", "t": "twenty-seven minutes past one", "a": " she felt as if she was levitating out of her body", "au": "Deon Meyer"},
     ],
+    "01_28": [
+        {"b": "ed at the police station. I di", "t": "1.28 a.m.", "a": " but I knew he was there becau", "au": "Mark Haddon"},
+    ],
     "01_29": [
         {"b": "He exited the men's room at ", "t": "one-twenty-nine A.M.", "a": "", "au": "William Edmund Butterworth"},
     ],
@@ -395,7 +398,7 @@ QUOTES = {
         {"b": "She glanced at her bedside clock. ", "t": "One thirty", "a": ". Beneath the hands, tiny ivory-inlaid sheep jumpe", "au": "Peter Bunzl"},
         {"b": "Rose continued her meditations until ", "t": "one thirty", "a": " that Monday morning. The rest of the True (with t", "au": "Stephen King"},
         {"b": "The following day, at ", "t": "one-thirty", "a": ", I call on Van Norden. It\u2019s his day off, or rathe", "au": "Henry Miller"},
-        {"b": "", "t": "Half-past one", "a": ", The street lamp sputtered, The street lamp mutte", "au": "T.S. Eliot"},
+        {"b": "\"", "t": "Half-past one", "a": "\", The street lamp sputtered, The street lamp mutt", "au": "T.S. Eliot"},
         {"b": "Around ", "t": "1:30 A.M.", "a": " the door opened and I thought it was Karla, but i", "au": "Douglas Coupland"},
         {"b": "ked for half an hour, but nothing happened. Until ", "t": "one thirty", "a": " in the morning. Until I looped around to 22nd and", "au": "Lee Child"},
         {"b": "The radio alarm clock glowed ", "t": "1:30 a.m.", "a": " Bad karaoke throbbed through walls. I was wide aw", "au": "David Mitchell"},
@@ -431,6 +434,9 @@ QUOTES = {
     "01_40": [
         {"b": "March twelfth, ", "t": "one-forty am", "a": ", she leaves a group of drinking buddies to catch", "au": "Kathy Reichs"},
     ],
+    "01_41": [
+        {"b": "He checked the time: ", "t": "one forty-one in the morning", "a": ". The city had finally gone quiet.", "au": "Anonymous"},
+    ],
     "01_42": [
         {"b": "At ", "t": "01:42", "a": " and 26 seconds, the plane hit the side of Nimitz", "au": "Malcolm Gladwell"},
     ],
@@ -445,12 +451,15 @@ QUOTES = {
         {"b": "to let him drink alone. The carriage-clock stuck ", "t": "1:45", "a": " before he roused himself and said: \"Sorry, Cousin", "au": "P.D. James"},
         {"b": "When it was ten or ", "t": "fifteen minutes to two", "a": " the deacon would come in; he was a lanky young ma", "au": "Anton Pavlovich Chekhov"},
     ],
+    "01_46": [
+        {"b": "It was ", "t": "one forty-six", "a": ". She lay still, listening to the rain.", "au": "Anonymous"},
+    ],
     "01_47": [
         {"b": "looked at the clock on the stand beside the bed - ", "t": "1:47 A.M.", "a": " - and realized he was alone.", "au": "William Kent Krueger"},
         {"b": "Friday ", "t": "1:47 A.M.", "a": "\"Will he help?\" Yuri Androv surveyed the eleven me", "au": "Thomas Hoover"},
     ],
     "01_48": [
-        {"b": "rom the government at Saigon and returned here at ", "t": "01:48", "a": " local time.", "au": "John Barnes"},
+        {"b": "rom the government at Saigon and returned here at ", "t": "01:48", "a": " local time.\"", "au": "John Barnes"},
     ],
     "01_49": [
         {"b": "a moment or two before he deciphered the figures ", "t": "01.49", "a": " on the digital bedside clock, and several more be", "au": "Michael Bond"},
@@ -475,7 +484,7 @@ QUOTES = {
         {"b": "", "t": "1:55 A.M.", "a": ", Bayside, Queens  Two sets of stairs led to the b", "au": "Ray Keating"},
     ],
     "01_56": [
-        {"b": "Mr. Peripart, Sir, at ", "t": "01:56", "a": " you ordered me back into shutdown mode.", "au": "John Barnes"},
+        {"b": "\"Mr. Peripart, Sir, at ", "t": "01:56", "a": " you ordered me back into shutdown mode.\"", "au": "John Barnes"},
     ],
     "01_57": [
         {"b": "n I opened my eyes and looked at my watch. It was ", "t": "one fifty-seven", "a": ". Twenty-five minutes had vanished somewhere. Not", "au": "Haruki Murakami"},
@@ -574,10 +583,10 @@ QUOTES = {
         {"b": "It did. When the alarm rang at ", "t": "two fifteen", "a": ", Lew shut it off, snapped on the little bedside l", "au": "Jack Finney"},
     ],
     "02_16": [
-        {"b": "General Scott's aircraft crashed in the desert at ", "t": "02:16 hours", "a": " this morning, killing all aboard.", "au": "Rob Buckman"},
+        {"b": "General Scott's aircraft crashed in the desert at ", "t": "02:16 hours", "a": " this morning, killing all aboard.\"", "au": "Rob Buckman"},
     ],
     "02_17": [
-        {"b": "", "t": "Two-seventeen", "a": ", he marveled. It was the strangest time he'd seen", "au": "Jonathan Franzen"},
+        {"b": "\"", "t": "Two-seventeen", "a": ",\" he marveled. It was the strangest time he'd see", "au": "Jonathan Franzen"},
         {"b": "he spotlight blinded me. I sat very still. It was ", "t": "2.17", "a": ". Against the noise of the blades a deeper resonan", "au": "Len Deighton"},
     ],
     "02_18": [
@@ -677,7 +686,7 @@ QUOTES = {
         {"b": "oom. She blinked twice and muffled a groan as the ", "t": "02:43", "a": " timestamp appeared in her vision. \"You've never e", "au": "K.B. Wagers"},
     ],
     "02_44": [
-        {"b": "You got here at ", "t": "sixteen minutes to three", "a": ". Ron looked at his watch.", "au": "Maj Sj\u00f6wall"},
+        {"b": "\"You got here at ", "t": "sixteen minutes to three", "a": ".\" Ron looked at his watch.", "au": "Maj Sj\u00f6wall"},
     ],
     "02_45": [
         {"b": "g into the room. He looked at his watch: it was a ", "t": "quarter to three", "a": ". Sleep had left him; he sat down upon his bed and", "au": "Alexsander S. Pushkin"},
@@ -702,6 +711,9 @@ QUOTES = {
     "02_50": [
         {"b": "When it was ", "t": "2:50", "a": " and the bank, too, had not been attacked, it was", "au": "Maj Sj\u00f6wall & Per Wahl\u00f6\u00f6"},
     ],
+    "02_51": [
+        {"b": "Thursday ", "t": "2:51 A.M.", "a": "A very wet, very annoyed Micha", "au": "Thomas Hoover"},
+    ],
     "02_52": [
         {"b": "It was an impulse, born of aloneness. It was ", "t": "eight minutes to three in the morning", "a": ", Sunday morning.", "au": "Gerald Seymour"},
     ],
@@ -713,7 +725,7 @@ QUOTES = {
     ],
     "02_55": [
         {"b": "The dashboard clock showed ", "t": "five minutes to three", "a": ", later than Theo had expected. The road, narrow a", "au": "P.D. James"},
-        {"b": "o, Nanette,' throughout eternity. That do you for ", "t": "2:55 a.m.", "a": "?", "au": "Jack Finney"},
+        {"b": "o, Nanette,' throughout eternity. That do you for ", "t": "2:55 a.m.", "a": "?\"", "au": "Jack Finney"},
         {"b": "Time to go: ", "t": "2.55 am", "a": ". Two-handed, Cec lifted his peak cap from the cha", "au": "Iain Sinclair"},
     ],
     "02_56": [
@@ -728,7 +740,7 @@ QUOTES = {
     "02_59": [
         {"b": "He climbed off his bed at ", "t": "2:59 a.m.", "a": ", fully rested, fully alert, walked over to the la", "au": "Jeffrey Archer"},
         {"b": "l have to do.\"  Sooner? Langdon checked his watch ", "t": "2:59 A. M.", "a": " The train left in seven minutes and they didn\u2019t e", "au": "Dan Brown"},
-        {"b": "I remembered arriving in this room at ", "t": "2.59", "a": " one night. I remembered the sergeant who called m", "au": "Len Deighton"},
+        {"b": "\"I remembered arriving in this room at ", "t": "2.59", "a": " one night. I remembered the sergeant who called m", "au": "Len Deighton"},
     ],
     "03_00": [
         {"b": "At ", "t": "3:00 A.M.", "a": ", a gray DeSoto Diplomat cruised up and down Olive", "au": "Peter Rennebohm"},
@@ -761,7 +773,7 @@ QUOTES = {
         {"b": "And now it was ", "t": "three o\u2019clock", "a": ". The Antichrist had been on Earth for fifteen hou", "au": "Terry Pratchett, Neil Gaiman"},
         {"b": "When the clock struck ", "t": "three", "a": ", Elizabeth felt that she must go, and very unwill", "au": "Jane Austen"},
         {"b": "sophomore class and they bent over the bones till ", "t": "three o\u2019clock", "a": " many a sultry night.", "au": "F. Scott Fitzgerald"},
-        {"b": "She died this morning, very early, about ", "t": "three o'clock", "a": ".", "au": "Virginia Woolf"},
+        {"b": "\"She died this morning, very early, about ", "t": "three o'clock", "a": ".\"", "au": "Virginia Woolf"},
         {"b": "Three a.m. That\u2019s our reward. ", "t": "Three in the morn.", "a": " The soul\u2019s midnight. The tide goes out, the soul", "au": "Ray Bradbury"},
         {"b": "According to her watch it was shortly after ", "t": "three o'clock", "a": ", and according to everything else it was night-ti", "au": "Douglas Adams"},
         {"b": "At ", "t": "three o' clock in the morning", "a": " Eurydice is bound to come into it. After all, why", "au": "Russell Hoban"},
@@ -776,7 +788,7 @@ QUOTES = {
         {"b": "", "t": "Three in the morning", "a": ", thought Charles Halloway, seated on the edge of", "au": "Ray Bradbury"},
         {"b": "ng clock immediately obliged. \"But it's only gone ", "t": "three", "a": "!\" said George in an injured tone, when it had fin", "au": "Jerome K. Jerome"},
         {"b": "When Sophie awoke, it was ", "t": "3:00 a.m.", "a": "", "au": "Paula Fox"},
-        {"b": "You hearken, Missy. It\u2019s ", "t": "three o\u2019clock", "a": " in the morning and I\u2019ve got all my faculties as w", "au": "George Eliot"},
+        {"b": "\"You hearken, Missy. It\u2019s ", "t": "three o\u2019clock", "a": " in the morning and I\u2019ve got all my faculties as w", "au": "George Eliot"},
         {"b": "having a quiet smoke somewhere out of the wind at ", "t": "three a.m.", "a": " Let\u2019s not get carried away, eh?\u201d", "au": "Terry Pratchett"},
         {"b": "ever did more than doze, and would wake up around ", "t": "three A.M", "a": ". for a glass of water.", "au": "Terry Pratchett"},
     ],
@@ -858,7 +870,7 @@ QUOTES = {
         {"b": "oon, and that consequently high water would be at ", "t": "twenty-one minutes past three", "a": ", the half-ebb at a quarter past seven, low water", "au": "Victor Hugo"},
     ],
     "03_22": [
-        {"b": "Ladies and gentlemen, at ", "t": "03:22", "a": " this morning, our GEODSS sensor suite at Socorro,", "au": "Dave Donovan"},
+        {"b": "\"Ladies and gentlemen, at ", "t": "03:22", "a": " this morning, our GEODSS sensor suite at Socorro,", "au": "Dave Donovan"},
     ],
     "03_23": [
         {"b": "It is ", "t": "twenty-three minutes past three", "a": ", and his plane leaves at eight A.M.", "au": "Evan Hunter and Ed McBain"},
@@ -880,7 +892,7 @@ QUOTES = {
         {"b": "he switched on his light and peered at his watch. ", "t": "3.28", "a": ". He got out of bed.", "au": "Rupert Thomson"},
     ],
     "03_29": [
-        {"b": "'s mobile. The last call was to another mobile at ", "t": "03.29", "a": " on Sunday morning. Since then no one's used it.", "au": "Graham Hurley"},
+        {"b": "'s mobile. The last call was to another mobile at ", "t": "03.29", "a": " on Sunday morning. Since then no one's used it.\"", "au": "Graham Hurley"},
     ],
     "03_30": [
         {"b": "at the luminous hands on the hotel\u2019s alarm clock. ", "t": "Half-past three", "a": ".", "au": "Robert Harris"},
@@ -927,7 +939,7 @@ QUOTES = {
     "03_42": [
         {"b": "The phone rang at ", "t": "3:42 a.m.", "a": " Who could be calling this late? Or rather, \"this", "au": "Gayl Siegel"},
         {"b": "his arm around Leena and when he arrived home at ", "t": "3:42 a.m.", "a": " in a severely inebriated state, according to his", "au": "Loreth Anne White"},
-        {"b": "We are due in Yellow Sky at ", "t": "3:42", "a": ", he said, looking tenderly into her eyes.\"Oh, are", "au": "Stephen Crane"},
+        {"b": "\"We are due in Yellow Sky at ", "t": "3:42", "a": ",\" he said, looking tenderly into her eyes.\"Oh, ar", "au": "Stephen Crane"},
     ],
     "03_43": [
         {"b": "The clock says ", "t": "3.43 am", "a": ". The thermometer says it's a chilly fourteen degr", "au": "David Mitchell"},
@@ -966,7 +978,7 @@ QUOTES = {
         {"b": "much so. The log book was open at the last entry: ", "t": "03.52", "a": " hours - Brady Field Beacon bearing 312\u00b0, approxim", "au": "Clive Cussler"},
     ],
     "03_53": [
-        {"b": "What were you doing in Hog Court at approximately ", "t": "seven minutes to four", "a": " this morning?", "au": "Keith Waterhouse"},
+        {"b": "What were you doing in Hog Court at approximately ", "t": "seven minutes to four", "a": " this morning?\"", "au": "Keith Waterhouse"},
     ],
     "03_54": [
         {"b": "da touched down at Aldergrove minutes earlier, at ", "t": "3.54 a.m.", "a": "", "au": "Paul Muldoon"},
@@ -1009,7 +1021,7 @@ QUOTES = {
         {"b": "aring at the morning Tribune, and waiting for the ", "t": "four o\u2019clock", "a": " train.", "au": "F. Scott Fitzgerald"},
         {"b": "She lay down at ", "t": "four o\u2019clock", "a": ", not expecting to sleep a wink, but her healing b", "au": "Stephen King"},
         {"b": "n the form of a bright green van, Sunday morning, ", "t": "4:00 A.M.", "a": " sharp. Dervla awoke to acrid exhaust fumes billow", "au": "Marsha Mehran"},
-        {"b": "ing happened, he said wanly. \"I waited, and about ", "t": "four o'clock", "a": " she came to the window and stood there for a minu", "au": "F. Scott Fitzgerald"},
+        {"b": "ng happened,\" he said wanly. \"I waited, and about ", "t": "four o'clock", "a": " she came to the window and stood there for a minu", "au": "F. Scott Fitzgerald"},
         {"b": "ked at the clock and it was (yes, you guessed it) ", "t": "four am.", "a": " I should have taken comfort from the fact that ap", "au": "Marian Keyes"},
         {"b": "ly. Michel looked at his watch; it was just after ", "t": "4 am", "a": ". On the screen a wild cat had a rabbit in its mou", "au": "Michel Houellebecq"},
         {"b": "The Birds begun at ", "t": "Four o'clock", "a": "  Their period for Dawn", "au": "Emily Dickinson"},
@@ -1104,8 +1116,14 @@ QUOTES = {
     "04_25": [
         {"b": "It was no wonder that no one was stirring. It was ", "t": "twenty-five minutes past four", "a": ".", "au": "Sir Arthur Conan Doyle"},
     ],
+    "04_26": [
+        {"b": "At ", "t": "twenty-six minutes past four", "a": ", she was pronounced dead.", "au": "Ann Rule"},
+    ],
     "04_27": [
         {"b": "my bed. It was still dark and my alarm clock said ", "t": "04:27", "a": " and I heard the noise again.", "au": "Matt Haig"},
+    ],
+    "04_28": [
+        {"b": "and was disheartened to discov", "t": "0428", "a": " hours.", "au": "Glenn Smith"},
     ],
     "04_29": [
         {"b": "ght.  \"Now what time is it?\" she asked.\"It is now ", "t": "0429 hours", "a": ",\" Donald said.", "au": "Roger MacBride Allen"},
@@ -1162,6 +1180,9 @@ QUOTES = {
     "04_43": [
         {"b": "The time is ", "t": "four forty-three", "a": " in the mornin an it's almost light oot there.", "au": "Suhayl Saadi"},
     ],
+    "04_44": [
+        {"b": "At ", "t": "0444 hours", "a": " yesterday morning, the landing craft was taken.", "au": "Robert J. Sawyer"},
+    ],
     "04_45": [
         {"b": ". Churchill did phone him on one occasion. It was ", "t": "four forty-five", "a": " in the morning when Charlie picked up the receive", "au": "Jeffrey Archer"},
         {"b": "able next to the bed. The hands glow and register ", "t": "4:45 a.m.", "a": "", "au": "Henning Mankell"},
@@ -1183,11 +1204,11 @@ QUOTES = {
         {"b": "seven years before, and after that it was always ", "t": "ten minutes to five", "a": " in the castle.", "au": "James Thurber"},
     ],
     "04_51": [
-        {"b": "Earlier? It's ", "t": "nine minutes to five a.m.", "a": " - who would be up this early?\"Oh, we're all early", "au": "Jean Johnson"},
+        {"b": "\"Earlier? It's ", "t": "nine minutes to five a.m.", "a": " - who would be up this early?\"\"Oh, we're all earl", "au": "Jean Johnson"},
     ],
     "04_52": [
         {"b": "Anna left the apartment at ", "t": "4:52 A.M.", "a": ", dressed in jeans, a blue T-shirt, a linen jacket", "au": "Jeffrey Archer"},
-        {"b": "If it matters, it's ", "t": "eight minutes to five", "a": ". Don't get any persecuted ideas that I enjoy bein", "au": "Gerald Seymour"},
+        {"b": "\"If it matters, it's ", "t": "eight minutes to five", "a": ". Don't get any persecuted ideas that I enjoy bein", "au": "Gerald Seymour"},
     ],
     "04_53": [
         {"b": "ock's second hand every time it moved. It was now ", "t": "seven minutes before five", "a": ".", "au": "Rita Leganski"},
@@ -1219,7 +1240,7 @@ QUOTES = {
         {"b": "the whole night! He looked quickly at his watch: ", "t": "5:00 A.M.", "a": " Still almost six hours to go before the boat had", "au": "Michael Crichton"},
         {"b": "ified fences were off?\u201d \u201cYes.\u201d\u201cAll of them? Since ", "t": "five", "a": " this morning? For the last five hours?\u201d\u201cYes.\u201d", "au": "Michael Crichton"},
         {"b": "ER BANGED reveille on the rail outside camp HQ at ", "t": "five o\u2019clock", "a": " as always. Time to get up. The ragged noise was m", "au": "Aleksandr Solzhenitsyn"},
-        {"b": "is scheduled for the day after tomorrow at about ", "t": "five o\u2019clock in the morning", "a": ". His face was still in shadow.", "au": "Jodi Taylor"},
+        {"b": "is scheduled for the day after tomorrow at about ", "t": "five o\u2019clock in the morning", "a": ".\" His face was still in shadow.", "au": "Jodi Taylor"},
         {"b": "toire in my dressing gown. The church bell chimes ", "t": "five", "a": ". Another thirsty dawn. My candle is burnt away. A", "au": "David Mitchell"},
         {"b": "", "t": "Five o\u2019clock", "a": " had hardly struck on the morning of the nineteent", "au": "Charlotte Bront\u00eb"},
         {"b": "They had been up since ", "t": "five o\u2019clock", "a": " that morning, as the reader will remember; but ba", "au": "Victor Hugo"},
@@ -1239,7 +1260,7 @@ QUOTES = {
         {"b": "pertly over passers-by although, since it was now ", "t": "five a.m.", "a": ", the crowds had thinned out a bit.", "au": "Terry Pratchett"},
     ],
     "05_01": [
-        {"b": "Oh yes. His clocks were set at ", "t": "one minute past five", "a": ", four minutes past five and seven minutes past fi", "au": "Agatha Christie"},
+        {"b": "\"Oh yes. His clocks were set at ", "t": "one minute past five", "a": ", four minutes past five and seven minutes past fi", "au": "Agatha Christie"},
         {"b": "Just ", "t": "after five o'clock", "a": " on this chill September morning, the fishmonger's", "au": "Rose Tremain"},
     ],
     "05_02": [
@@ -1351,6 +1372,9 @@ QUOTES = {
         {"b": "It was by this time ", "t": "half-past five", "a": ", and the sun was on the point of rising; but I fo", "au": "Charlotte Bront\u00eb"},
         {"b": "were going to kill him, Santiago Nasar got up at ", "t": "five-thirty", "a": " in the morning to wait for the boat the bishop wa", "au": "Gabriel Garc\u00eda M\u00e1rquez"},
     ],
+    "05_31": [
+        {"b": "", "t": "5:31", "a": " - on the phone: 'We gotta go in there and get those ballots!'", "au": "Hunter S Thompson"},
+    ],
     "05_32": [
         {"b": "By ", "t": "05.32", "a": " the driver had come back from a corner shop with", "au": "Paul Mason"},
     ],
@@ -1374,7 +1398,7 @@ QUOTES = {
         {"b": "Richard glanced at the clock on the microwave - ", "t": "5:37", "a": " - almost twelve hours, almost one half-day since", "au": "A.M. Homes"},
     ],
     "05_38": [
-        {"b": "Good morning, Johnny, said the ship. \"It is ", "t": "5.38 a.m.", "a": "\"\"What?\" said Johnny. \"It\u2019s Saturday.\"\"I told you", "au": "Keith Mansfield"},
+        {"b": "\"Good morning, Johnny,\" said the ship. \"It is ", "t": "5.38 a.m.", "a": "\"\"What?\" said Johnny. \"It\u2019s Saturday.\"\"I told you", "au": "Keith Mansfield"},
     ],
     "05_39": [
         {"b": "t the alarm by just over an hour,\" he said. \"It's ", "t": "twenty-one minutes to six", "a": ".\"", "au": "Kudakwashe Muzira"},
@@ -1408,6 +1432,9 @@ QUOTES = {
     "05_46": [
         {"b": "effect that the sentence had been carried out at ", "t": "5.46 am", "a": ", adding, 'without a snag'. The burial party had c", "au": "William Brodrick"},
         {"b": "; those of the carriage clock on the bookshelf to ", "t": "fourteen minutes to six", "a": ". In other words, it was exactly eight; and Mrs. H", "au": "P.G. Wodehouse"},
+    ],
+    "05_47": [
+        {"b": "Before dawn. It was ", "t": "forty-seven minutes past five", "a": ". On a Sunday.", "au": "Cassie Miles"},
     ],
     "05_48": [
         {"b": "St. Pauli Girl clock, the clock's hands frozen at ", "t": "twelve minutes to six", "a": ".", "au": "John Burnham Schwartz"},
@@ -1489,6 +1516,12 @@ QUOTES = {
     "06_05": [
         {"b": "nt in and found the shop empty, as he thought, at ", "t": "five minutes past six", "a": ". That puts the time at between 5:30 and 6:05.", "au": "Agatha Christie"},
     ],
+    "06_06": [
+        {"b": "The hall clock struck ", "t": "six minutes past six", "a": ", and the house stirred slowly to life.", "au": "Anonymous"},
+    ],
+    "06_07": [
+        {"b": "At ", "t": "seven minutes past six", "a": ", the light had barely changed, but she was already dressed.", "au": "Anonymous"},
+    ],
     "06_08": [
         {"b": "At ", "t": "six oh-eight a.m.", "a": " two men wearing ragged trench coats approached th", "au": "Ilona Andrews"},
     ],
@@ -1523,6 +1556,9 @@ QUOTES = {
     "06_17": [
         {"b": "clanging through the walls. The clock radio read ", "t": "6:17 a.m.", "a": " That was when I saw our fern. It was sitting righ", "au": "Olivia Claire Friedman"},
         {"b": "the animal down on to the pillow. The clock read ", "t": "six-seventeen", "a": ". A second cat, Miles, purred on contentedly from", "au": "John Harvey"},
+    ],
+    "06_18": [
+        {"b": "", "t": "Six eighteen", "a": ". Too early for most of the world, but not for him.", "au": "Anonymous"},
     ],
     "06_19": [
         {"b": "", "t": "6.19 am", "a": ", 8th June 2004, the jet of your pupil set in the", "au": "Carol Ann Duffy"},
@@ -1747,7 +1783,7 @@ QUOTES = {
         {"b": "the front so that she emerged first. The time was ", "t": "7:10", "a": " in the morning. The manoeuvre would start at 7:12", "au": "Mini Nair"},
     ],
     "07_11": [
-        {"b": "Anyway, every morning at ", "t": "eleven minutes past seven", "a": " he'd slam the door and rev the engine like he was", "au": "Stuart Pawson"},
+        {"b": "\"Anyway, every morning at ", "t": "eleven minutes past seven", "a": " he'd slam the door and rev the engine like he was", "au": "Stuart Pawson"},
         {"b": "", "t": "7:11 a.m.", "a": "It could have been the sound of a single explosion", "au": "Thomas Hoover"},
     ],
     "07_12": [
@@ -1790,6 +1826,9 @@ QUOTES = {
     ],
     "07_21": [
         {"b": "try and root herself in the midst of this chaos. ", "t": "7.21 a.m.", "a": " So many people would have been eating breakfast,", "au": "KateThompson"},
+    ],
+    "07_22": [
+        {"b": "", "t": "7:22 A.M.", "a": "Do you know how to handle this?", "au": "Thomas Hoover"},
     ],
     "07_23": [
         {"b": "", "t": "7:23 A.M.", "a": "  The transmit seemed to be working, and he was ge", "au": "Thomas Hoover"},
@@ -1882,7 +1921,7 @@ QUOTES = {
     ],
     "07_45": [
         {"b": "up to the old woman and he left him at exactly a ", "t": "quarter to eight", "a": ". Now just consider\u2026\u201d", "au": "Fyodor Dostoyevsky"},
-        {"b": "he's been giving a bit of trouble. That took from ", "t": "seven-forty-five", "a": " until twenty past eight, near enough.", "au": "P.D. James"},
+        {"b": "he's been giving a bit of trouble. That took from ", "t": "seven-forty-five", "a": " until twenty past eight, near enough.\"", "au": "P.D. James"},
         {"b": "Tony marks papers until ", "t": "quarter to eight", "a": ". Sunlight floods the room, made golden by the yel", "au": "Margaret Atwood"},
         {"b": "ay arrived at the Bergs\u2019 house, not at ten but at ", "t": "fifteen minutes to eight", "a": ".", "au": "Leo Tolstoy"},
         {"b": "Mr. Green left for work at a ", "t": "quarter to eight", "a": ", as he did every morning. He walked down his fron", "au": "Suzanne Berne"},
@@ -1900,8 +1939,8 @@ QUOTES = {
         {"b": "", "t": "7:48 A.M.", "a": "Vance stared up the mountain, puzzled. The silence", "au": "Thomas Hoover"},
     ],
     "07_49": [
-        {"b": "", "t": "Eleven minutes to eight", "a": ".\"You're always right; there must be a clock in yo", "au": "Ray Bradbury"},
-        {"b": "When did you next see Dr. Wellesley?\"At just ", "t": "eleven minutes to eight", "a": ".\"\"Where?\"\"In the surgery.\"\"He came back there?\"\"Y", "au": "J.S. Fletcher"},
+        {"b": "\"", "t": "Eleven minutes to eight", "a": ".\"\"You're always right; there must be a clock in y", "au": "Ray Bradbury"},
+        {"b": "\"When did you next see Dr. Wellesley?\"\"At just ", "t": "eleven minutes to eight", "a": ".\"\"Where?\"\"In the surgery.\"\"He came back there?\"\"Y", "au": "J.S. Fletcher"},
     ],
     "07_50": [
         {"b": "DI Hogan rang the front doorbell at ", "t": "ten minutes to eight", "a": ". It was opened a few moments later by someone who", "au": "Jeffrey Archer"},
@@ -1917,13 +1956,13 @@ QUOTES = {
     ],
     "07_53": [
         {"b": "hen gathered speed. The wheels left the ground at ", "t": "7:53", "a": ".", "au": "Jeffrey Archer"},
-        {"b": "What time is it?\"", "t": "Seven to eight", "a": ". Won't be long now.\"", "au": "Robert Goddard"},
+        {"b": "\"What time is it?\"\"", "t": "Seven to eight", "a": ". Won't be long now.\"", "au": "Robert Goddard"},
     ],
     "07_54": [
         {"b": "When I awoke on the arrival of the others, it was ", "t": "six minutes to eight in the morning", "a": " of the same day, today. Not two hours had passed", "au": "R.A. Lafferty"},
     ],
     "07_55": [
-        {"b": "den.I glanced up at the clock on the wall. It was ", "t": "five minutes before eight", "a": ". \"She wanted me early.\" I stepped to one side to", "au": "Jim Butcher"},
+        {"b": "en.\"I glanced up at the clock on the wall. It was ", "t": "five minutes before eight", "a": ". \"She wanted me early.\" I stepped to one side to", "au": "Jim Butcher"},
         {"b": ". They were all seated around the boss\u2019s table by ", "t": "7:55", "a": ", waiting for the Hawk to open proceedings.", "au": "Jeffrey Archer"},
         {"b": "At ", "t": "five minutes to eight", "a": ", the Prime Minister emerged from Wilson\u2019s office,", "au": "Robert Harris"},
         {"b": "at ", "t": "7.55", "a": " this morning the circus ran away to join me.", "au": "Roger McGough"},
@@ -1945,7 +1984,7 @@ QUOTES = {
     ],
     "07_59": [
         {"b": "At ", "t": "one minute to eight", "a": " he set off at a brisk pace down the path that wou", "au": "Jeffrey Archer"},
-        {"b": "It was right at ", "t": "eight o'clock, maybe a minute before", "a": ". I went into the demo room to see if I'd left my", "au": "P.D. James"},
+        {"b": "\"It was right at ", "t": "eight o'clock, maybe a minute before", "a": ". I went into the demo room to see if I'd left my", "au": "P.D. James"},
         {"b": "I'd spent fifty two days in 1958, but here it was ", "t": "7.59", "a": " in the morning.", "au": "Stephen King"},
     ],
     "08_00": [
@@ -1999,7 +2038,7 @@ QUOTES = {
     ],
     "08_03": [
         {"b": "ished the last mouthful, Scott checked his watch: ", "t": "three minutes past eight", "a": "\u2014just enough time for coffee before grabbing a tax", "au": "Jeffrey Archer"},
-        {"b": "ave cut her down. When did you say you found her? ", "t": "Three minutes after eight", "a": ".", "au": "P.D. James"},
+        {"b": "ave cut her down. When did you say you found her? ", "t": "Three minutes after eight", "a": ".\"", "au": "P.D. James"},
         {"b": "o eh em, Death of Corporal Littlebottombottom ... ", "t": "Eight oh three", "a": " eh em ... Death of Sergeant Detritus ... Eight oh", "au": "Terry Pratchett"},
         {"b": ":45 or 6:30, Jasper, but pick times like 7:12 and ", "t": "8:03", "a": "!\"", "au": "Steve Toltz"},
         {"b": "ing pills. I noticed that my watch had stopped at ", "t": "three minutes past eight", "a": ", and I wondered if that was the exact time our ba", "au": "Alice Feeny"},
@@ -2010,7 +2049,7 @@ QUOTES = {
     ],
     "08_05": [
         {"b": "", "t": "8.05 a.m.", "a": " Pack school bag", "au": "Mark Haddon"},
-        {"b": "Well, it\u2019s ", "t": "five-past eight", "a": " now, I said to Drake. \"You\u2019d better go straight o", "au": "Anthony Quayle"},
+        {"b": "\"Well, it\u2019s ", "t": "five-past eight", "a": " now,\" I said to Drake. \"You\u2019d better go straight", "au": "Anthony Quayle"},
     ],
     "08_06": [
         {"b": "fever and was a little late starting out. It was ", "t": "six minutes past eight", "a": " when I arrived at the lighthouse. I was unable to", "au": "P.D. James"},
@@ -2070,10 +2109,13 @@ QUOTES = {
     ],
     "08_20": [
         {"b": "-morning commuters flooding in on every train. By ", "t": "twenty past eight", "a": " Adam judged they were at their peak. He checked t", "au": "Jeffrey Archer"},
-        {"b": "of trouble. That took from seven-forty-five until ", "t": "twenty past eight", "a": ", near enough.", "au": "P.D. James"},
+        {"b": "of trouble. That took from seven-forty-five until ", "t": "twenty past eight", "a": ", near enough.\"", "au": "P.D. James"},
         {"b": "by an invisible hand. Mandy glanced at her watch: ", "t": "8:20", "a": ".", "au": "P.D. James"},
         {"b": "", "t": "Eight-twenty", "a": " the cards and puzzles go out.", "au": "Ken Kesey"},
         {"b": "When the typewriters happen to pause (", "t": "8:20", "a": " and other mythical hours), and there are no fligh", "au": "Thomas Pynchon"},
+    ],
+    "08_21": [
+        {"b": "It was ", "t": "twenty-one minutes past eight", "a": " when he first saw her standing at the corner.", "au": "Anonymous"},
     ],
     "08_22": [
         {"b": "Daisy Flory made her 999 call at ", "t": "twenty-two minutes past eight", "a": ", within a few minutes of their leaving.", "au": "Ruth Rendell"},
@@ -2156,7 +2198,7 @@ QUOTES = {
         {"b": "", "t": "Eight thirty-seven", "a": " a.m., Patrice Lane, Biohazard: The dog's clean. T", "au": "Ilona Andrews"},
     ],
     "08_38": [
-        {"b": "Vasquez's car was stopped at Carfraemill - at ", "t": "08:38 hours", "a": ", he pointed out. \"Aye -annd-?\"\"Heading north, mon", "au": "Stephen Coill"},
+        {"b": "\"Vasquez's car was stopped at Carfraemill - at ", "t": "08:38 hours", "a": ",\" he pointed out. \"Aye -annd-?\"\"Heading north, mo", "au": "Stephen Coill"},
     ],
     "08_39": [
         {"b": "", "t": "8:39 A.M.", "a": "\"It's a go in five,\" Caroline Shaeffer announced i", "au": "Thomas Hoover"},
@@ -2177,7 +2219,8 @@ QUOTES = {
         {"b": "When Black himself finally appeared at ", "t": "eighteen minutes to nine", "a": ", she became very engrossed in the details of Wedn", "au": "Shannon Hollis"},
     ],
     "08_43": [
-        {"b": "on both counts. Cavalli checked his watch again: ", "t": "8:43", "a": ".|Honor Among Thieves|Jeffrey Archer|sfw08:43|eigh", "au": "John Grisham"},
+        {"b": "on both counts. Cavalli checked his watch again: ", "t": "8:43", "a": ".", "au": "Jeffrey Archer"},
+        {"b": "er is on?\"\"Uh huh\"\"And it's Wednesday, May 15, at ", "t": "eight forty-three", "a": " in the mornin'.\"\"If you say so\"", "au": "John Grisham"},
         {"b": "", "t": "8.43 a.m.", "a": " Go past tropical fish shop", "au": "Mark Haddon"},
     ],
     "08_44": [
@@ -2190,9 +2233,12 @@ QUOTES = {
         {"b": "At ", "t": "eight forty-five", "a": ", I called and said, \u201cI need some financial advice", "au": "Ottessa Moshfegh"},
         {"b": "He paid the waitress and left the caf\u00e9. It was ", "t": "8:45", "a": ". The sun pressed against the inside of a thin lay", "au": "Rupert Thomson"},
     ],
+    "08_46": [
+        {"b": "The clock above the fireplace read ", "t": "eight forty-six", "a": ", and no one had yet spoken.", "au": "Anonymous"},
+    ],
     "08_47": [
         {"b": "", "t": "8:47 a.m.", "a": " Just had fag. But no-smoking day does not start o", "au": "Helen Fielding"},
-        {"b": "Just on my way to the cottage. It's, er, . . .", "t": "8.47", "a": ". Bit misty on the roads.", "au": "Douglas Adams"},
+        {"b": "\"Just on my way to the cottage. It's, er, . . .", "t": "8.47", "a": ". Bit misty on the roads.\"", "au": "Douglas Adams"},
     ],
     "08_48": [
         {"b": "with her work where she had left off? But it was ", "t": "twelve minutes to nine", "a": ".", "au": "Malachi Whitaker"},
@@ -2221,7 +2267,7 @@ QUOTES = {
     ],
     "08_54": [
         {"b": "to make sure he arrived at the police station at ", "t": "8:54 a.m.", "a": " A young constable took him straight through to De", "au": "Jeffrey Archer"},
-        {"b": "Are you aware that at ", "t": "08.54", "a": " Carthedian standard time yesterday, a report was", "au": "Nicholas Briggs"},
+        {"b": "\"Are you aware that at ", "t": "08.54", "a": " Carthedian standard time yesterday, a report was", "au": "Nicholas Briggs"},
     ],
     "08_55": [
         {"b": "But it was ", "t": "8.55", "a": " before the telephone rang and he heard the expect", "au": "P.D. James"},
@@ -2275,8 +2321,8 @@ QUOTES = {
         {"b": "However, at ", "t": "nine o\u2019clock", "a": " the prince, in his velvet coat with a sable colla", "au": "Leo Tolstoy"},
         {"b": "It was ", "t": "nine o\u2019clock", "a": " in the morning. The fog lay unbroken like a sea d", "au": "Leo Tolstoy"},
         {"b": "When the gong sounded for breakfast at ", "t": "nine o\u2019clock", "a": " it found every one up and awaiting the summons.", "au": "Agatha Christie"},
-        {"b": "I could never get all the way down there before ", "t": "nine o'clock", "a": ".", "au": "John Kennedy Toole"},
-        {"b": ". Ignatius. I'm beat. I've been on the road since ", "t": "nine o'clock", "a": " yesterday morning.", "au": "John Kennedy Toole"},
+        {"b": "\"I could never get all the way down there before ", "t": "nine o'clock", "a": ".\"", "au": "John Kennedy Toole"},
+        {"b": ". Ignatius. I'm beat. I've been on the road since ", "t": "nine o'clock", "a": " yesterday morning.\"", "au": "John Kennedy Toole"},
         {"b": "just as all the clocks in the city were striking ", "t": "nine", "a": " individually, and somewhere about nine hundred an", "au": "Charles Dickens"},
         {"b": "", "t": "9.00 a.m.", "a": " School assembly", "au": "Mark Haddon"},
         {"b": "buzzed, the wall clock began to strike. After the ", "t": "nine", "a": " golden strokes faded, the district captain began.", "au": "Joseph Roth"},
@@ -2331,7 +2377,7 @@ QUOTES = {
         {"b": "It was a sparkling morning, ", "t": "9:07", "a": " by the clock when Mrs. Flett stepped aboard the I", "au": "Carol Shields"},
     ],
     "09_08": [
-        {"b": "What time was it? asked Edmund.  \"", "t": "Between nine and ten of the clock", "a": ",\" said Trumpkin.  \"Just when we were at the railw", "au": "C.S. Lewis"},
+        {"b": "\"What time was it?\" asked Edmund.  \"", "t": "Between nine and ten of the clock", "a": ",\" said Trumpkin.  \"Just when we were at the railw", "au": "C.S. Lewis"},
         {"b": "pletely gray and without shade. It must have been ", "t": "between nine and ten", "a": ". The shooting continued relentlessly up ahead. He", "au": "Bo Giertz"},
         {"b": "", "t": "9:08 am", "a": " rolled over onto left side.", "au": "Steve Toltz"},
     ],
@@ -2516,7 +2562,7 @@ QUOTES = {
         {"b": "He left the hotel at ", "t": "9:47 A.M.", "a": " at his usual brisk pace \u201cAction stations.\u201d Stephe", "au": "Jeffrey Archer"},
         {"b": "imum of pain.\u201d He checked his watch; the time was ", "t": "9:47", "a": ". He covered his patient with a blanket and called", "au": "Jeffrey Archer"},
         {"b": "ld have impressed a regimental sergeant major. At ", "t": "9:47 a.m.", "a": " there was a knock on the door and his secretary,", "au": "Jeffrey Archer"},
-        {"b": "Right. . . ", "t": "nine forty-seven", "a": " and nine forty-eight. They died at the same time.", "au": "Jim Butcher"},
+        {"b": "\"Right. . . ", "t": "nine forty-seven", "a": " and nine forty-eight. They died at the same time.", "au": "Jim Butcher"},
         {"b": "n I\u2019m hungry again I check Watch but he only says ", "t": "09:47", "a": ". Cartoons are over so I watch football and the pl", "au": "Emma Donoghue"},
         {"b": "Finally at ", "t": "9:47", "a": ", the call came. Elaine answered, listened for a s", "au": "Madeleine Albright"},
         {"b": "", "t": "9:47 a.m.", "a": " Or gone to Las Vegas and got married.", "au": "Helen Fielding"},
@@ -2526,8 +2572,8 @@ QUOTES = {
         {"b": "ote times exactly, the final emergency started at ", "t": "thirteen minutes to ten", "a": ".", "au": "C.J. Driver"},
     ],
     "09_48": [
-        {"b": "Right. . . nine forty-seven and ", "t": "nine forty-eight", "a": ". They died at the same time.\"That's not the same", "au": "Jim Butcher"},
-        {"b": "This is the body I first saw at ", "t": "nine-forty-eight", "a": " on Friday the fifteenth of October at Innocent Ho", "au": "P.D. James"},
+        {"b": "\"Right. . . nine forty-seven and ", "t": "nine forty-eight", "a": ". They died at the same time.\"\"That's not the same", "au": "Jim Butcher"},
+        {"b": "\"This is the body I first saw at ", "t": "nine-forty-eight", "a": " on Friday the fifteenth of October at Innocent Ho", "au": "P.D. James"},
     ],
     "09_49": [
         {"b": "ge received. Assets en route. Landing tomorrow at ", "t": "0949 hours", "a": ". GCHQ listening in.", "au": "Chris Ryan"},
@@ -2596,7 +2642,7 @@ QUOTES = {
         {"b": "The ", "t": "ten-o\u2019clock", "a": " breakfasters began to appear: nervous, little men", "au": "Henry Miller"},
         {"b": "hing about her job is that it doesn\u2019t start until ", "t": "ten", "a": ", which gives her a long morning, time to grow slo", "au": "Margaret Atwood"},
         {"b": "At ", "t": "ten o\u2019clock", "a": ", he went to Shinjuku and bought a Fujitsu word pr", "au": "Haruki Murakami"},
-        {"b": "It was ", "t": "ten o\u2019clock", "a": ". And now he is dead, and the police will be calle", "au": "Sir Arthur Conan Doyle"},
+        {"b": "\"It was ", "t": "ten o\u2019clock", "a": ". And now he is dead, and the police will be calle", "au": "Sir Arthur Conan Doyle"},
         {"b": "he next morning, but Bucky asks him to wait until ", "t": "ten o\u2019clock", "a": " because he has an errand to run. While he does it", "au": "Stephen King"},
         {"b": "ll right. I ran the Carolina Spin with Lane until ", "t": "10 o\u2019clock", "a": ", then alone for the next ninety minutes while he", "au": "Stephen King"},
         {"b": "At around ", "t": "ten", "a": " every morning, my wife and I would take a cooler", "au": "Haruki Murakami"},
@@ -2661,7 +2707,7 @@ QUOTES = {
     ],
     "10_08": [
         {"b": "the wardrobe door. He looked at his watch. It was ", "t": "eight minutes past ten", "a": ".", "au": "P.D. James"},
-        {"b": "tle fast, I said. \"What time do you make it now?\"\"", "t": "Ten eight", "a": ".\"\"Ten eighteen by mine. You see.\"", "au": "Graham Greene"},
+        {"b": "le fast,\" I said. \"What time do you make it now?\"\"", "t": "Ten eight", "a": ".\"\"Ten eighteen by mine. You see.\"", "au": "Graham Greene"},
     ],
     "10_09": [
         {"b": "he squeals down a hallway. A wall clock read 8:09-", "t": "10:09", "a": " Dallas time.", "au": "James Ellroy"},
@@ -2686,7 +2732,7 @@ QUOTES = {
     ],
     "10_13": [
         {"b": "ast ten.\"\"And I sent it to the Daily Telegraph at ", "t": "thirteen minutes past ten", "a": ".\"\"Bravo, Mr. Blount!\"\"Very good, M. Jolivet.\"", "au": "Jules Verne"},
-        {"b": "It's ", "t": "ten-thirteen", "a": ", announced Clancy. \"In two more minutes-\"\"Post ti", "au": "Ray Bradbury"},
+        {"b": "\"It's ", "t": "ten-thirteen", "a": ",\" announced Clancy. \"In two more minutes-\"\"Post t", "au": "Ray Bradbury"},
     ],
     "10_14": [
         {"b": "", "t": "10:14", "a": ", would her next appointment have to be with Mr. B", "au": "Jeffrey Archer"},
@@ -2747,6 +2793,9 @@ QUOTES = {
         {"b": "r. Harcourt woke up with mysterious suddenness at ", "t": "twenty-seven minutes past 10", "a": ", and, by a curious coincidence, it was at that ve", "au": "A.G. Macdonell"},
         {"b": "iday in Norfolk. The substandard clock radio says ", "t": "10:27 a.m.", "a": " The noise is Katrina the Cleaner thumping the hoo", "au": "Ali Smith"},
     ],
+    "10_28": [
+        {"b": "By ", "t": "ten twenty-eight", "a": " the meeting had already gone badly wrong.", "au": "Anonymous"},
+    ],
     "10_29": [
         {"b": "ly toward me. \u201cWhat time is it now?\u201d he asked me.\u201c", "t": "Ten twenty nine", "a": ",\u201d I replied.", "au": "Haruki Murakami"},
     ],
@@ -2768,7 +2817,7 @@ QUOTES = {
         {"b": "It was ", "t": "ten thirty-two", "a": " when the bus finally rolled into view.The bus tha", "au": "Haruki Murakami"},
     ],
     "10_33": [
-        {"b": "The time checks out. December 12, ", "t": "10:33 A.M.", "a": " James says the caller disguised their voice. We f", "au": "Chuck Logan"},
+        {"b": "\"The time checks out. December 12, ", "t": "10:33 A.M.", "a": " James says the caller disguised their voice. We f", "au": "Chuck Logan"},
     ],
     "10_34": [
         {"b": "", "t": "10:34 a.m.", "a": " on 198.088, the lights went out in Labrador, and", "au": "Kim Stanley Robinson"},
@@ -2777,7 +2826,7 @@ QUOTES = {
         {"b": "It was ", "t": "10:35", "a": " and Brenda Pridmore, at the reception desk at the", "au": "P.D. James"},
     ],
     "10_36": [
-        {"b": "Strand post mark and dispatched ", "t": "ten thirty-six", "a": ", said Holmes reading it over and over. \"Mr. Overt", "au": "Sir Arthur Conan Doyle"},
+        {"b": "\"Strand post mark and dispatched ", "t": "ten thirty-six", "a": ",\" said Holmes reading it over and over. \"Mr. Over", "au": "Sir Arthur Conan Doyle"},
     ],
     "10_37": [
         {"b": "awkward situation. Lady Dormer died at precisely ", "t": "10.37 a.m.", "a": " on November 11th.\"", "au": "Dorothy L. Sayers"},
@@ -2791,7 +2840,7 @@ QUOTES = {
         {"b": "ing may come of our meeting. My flight arrives at ", "t": "10:39 a.m.", "a": "", "au": "Linda Howard"},
     ],
     "10_40": [
-        {"b": "", "t": "Ten-forty in the morning", "a": " is hardly an appropriate time to begin imbibing,", "au": "P.D. James"},
+        {"b": "\"", "t": "Ten-forty in the morning", "a": " is hardly an appropriate time to begin imbibing,", "au": "P.D. James"},
         {"b": "There, at ", "t": "10:40", "a": ", the plasma engines would ignite at full burn to", "au": "Chris Walley"},
         {"b": "n, shutting out the view, and looks at his watch. ", "t": "It\u2019s twenty to eleven", "a": ". How time flies when you\u2019re having fun, he thinks", "au": "Stephen King"},
         {"b": "", "t": "10:40", "a": ": Call from Katharina asking me whether I had real", "au": "Heinrich B\u00f6ll"},
@@ -2852,7 +2901,7 @@ QUOTES = {
         {"b": "The buzz of nervous chatter ceased at ", "t": "six minutes to eleven", "a": " when a tall, elegant man in morning dress entered", "au": "Jeffrey Archer"},
         {"b": "", "t": "10:54 GMT", "a": "\"Commander Hawksby's office.\"\"It's Bruce Lamont, A", "au": "Jeffrey Archer"},
         {"b": "It was ", "t": "10:54 A.M.", "a": " Her telephone call would come in a minute. They w", "au": "Warren Murphy and Richard Sapir"},
-        {"b": ",495 into Bennington's Bank in the High Street at ", "t": "10:54 a.m.", "a": " today, insisted Frost.\"And I'm telling you I did", "au": "R.D. Wingfield"},
+        {"b": ",495 into Bennington's Bank in the High Street at ", "t": "10:54 a.m.", "a": " today,\" insisted Frost.\"And I'm telling you I did", "au": "R.D. Wingfield"},
     ],
     "10_55": [
         {"b": "At ", "t": "10:55", "a": ", the canon would accompany the Lord Chancellor in", "au": "Jeffrey Archer"},
@@ -2985,7 +3034,7 @@ QUOTES = {
     "11_15": [
         {"b": "er has been stenciled AUTHORIZED PARKING ONLY. At ", "t": "quarter past eleven", "a": " a truck with a big sombrero on the side pulls up", "au": "Stephen King"},
         {"b": "ervoir, and behind it the treacherous glacier. At ", "t": "a quarter past eleven", "a": ", she concludes that it\u2019s impossible for Nick to b", "au": "Thomas Olde Heuvelt"},
-        {"b": "Air and scenery perfect. Leave Paddington by the ", "t": "11:15", "a": ".", "au": "Sir Arthur Conan Doyle"},
+        {"b": "Air and scenery perfect. Leave Paddington by the ", "t": "11:15", "a": ".\"", "au": "Sir Arthur Conan Doyle"},
         {"b": "The clock said ", "t": "quarter past eleven", "a": ".Vimes walked over to the door and, despite preced", "au": "Terry Pratchett"},
     ],
     "11_16": [
@@ -3012,6 +3061,9 @@ QUOTES = {
     "11_21": [
         {"b": "She checked her watch yet again: ", "t": "eleven twenty-one", "a": ". For the first time she began to feel slightly un", "au": "Jeffrey Archer"},
         {"b": "It was ", "t": "twenty-one minutes past eleven", "a": " by the clock over the elevator doors when Joel Ca", "au": "Dashiell Hammett"},
+    ],
+    "11_22": [
+        {"b": "appeared here yesterday at approximately ", "t": "11:22 a.m.", "a": ", wanting to know if anybody had seen his dog.", "au": "Craig Johnson"},
     ],
     "11_23": [
         {"b": "ff. She lay in silence, waiting for sleep. It was ", "t": "11:23 a.m.", "a": "", "au": "Michael Moorcock"},
@@ -3048,8 +3100,8 @@ QUOTES = {
         {"b": "ir by the window. The clock above the door showed ", "t": "11:30", "a": " and the ICU was dead silent. Adrenaline supply no", "au": "Thomas Olde Heuvelt"},
         {"b": "And so it was that around ", "t": "half past eleven", "a": ", I found myself riding down to the Village on the", "au": "Donna Tartt"},
         {"b": "\u201cThe extraordinary thing is,\u201d he told Livia at ", "t": "eleven-thirty", "a": ", \u201cyou seem to be the only applicant. Or at least,", "au": "Anthony Capella"},
-        {"b": "It is now ", "t": "11.30", "a": ". The door to this room is shut, and will remain s", "au": "Charles Stross"},
-        {"b": "e spire was All Saints', and I was at the door at ", "t": "half-past eleven", "a": " to a minute as you said.", "au": "Thomas Hardy"},
+        {"b": "\"It is now ", "t": "11.30", "a": ". The door to this room is shut, and will remain s", "au": "Charles Stross"},
+        {"b": "e spire was All Saints', and I was at the door at ", "t": "half-past eleven", "a": " to a minute as you said.\"", "au": "Thomas Hardy"},
         {"b": "tina. Beddows had abjured Satan at a little after ", "t": "half-past eleven", "a": ". By about eighteen minutes the Canon had beaten t", "au": "Dennis Wheatley"},
         {"b": "This time it was Kumiko. The wall clock said ", "t": "11.30", "a": ".", "au": "Haruki Murakami"},
         {"b": "About ", "t": "11:30", "a": " this morning I asked her if she was going to fix", "au": "Margaret Peterson Haddix"},
@@ -3085,7 +3137,7 @@ QUOTES = {
         {"b": "At ", "t": "11:38", "a": ", she left her desk and walked to the side door of", "au": "Dave Eggers"},
     ],
     "11_39": [
-        {"b": "Time? Raith asked. \"", "t": "Eleven-thirty-nine", "a": ", my lord,\" the bodyguard reported.\"Ah, good. Stil", "au": "Jim Butcher"},
+        {"b": "\"Time?\" Raith asked. \"", "t": "Eleven-thirty-nine", "a": ", my lord,\" the bodyguard reported.\"Ah, good. Stil", "au": "Jim Butcher"},
         {"b": "ch certainty as any tourist can hope for that the ", "t": "11.39", "a": " to Paris Est was a service on which accompanied b", "au": "Tim Moore"},
     ],
     "11_40": [
@@ -3117,11 +3169,14 @@ QUOTES = {
         {"b": "on Tuesday, the 14th of August. I was arrested at ", "t": "11.45 am", "a": " on Thursday, the 16th by an agent de police and a", "au": "Eric Ambler"},
         {"b": "middle of the mantelpiece until its dial showed a ", "t": "quarter to twelve", "a": " and then laid it once more on its side.", "au": "James Joyce"},
     ],
+    "11_46": [
+        {"b": "At ", "t": "eleven forty-six", "a": " she turned the last page and sat very still.", "au": "Anonymous"},
+    ],
     "11_47": [
         {"b": "hadn't stood up to the swim and showed an eternal ", "t": "thirteen minutes to noon", "a": ").", "au": "Jonathan Littell"},
     ],
     "11_48": [
-        {"b": "ey'll be mighty glad to see you.\"We can make that ", "t": "eleven-forty-eight", "a": " if we hurry,\" he said. \"I'll have to change a few", "au": "Harry Leon Wilson"},
+        {"b": "y'll be mighty glad to see you.\"\"We can make that ", "t": "eleven-forty-eight", "a": " if we hurry,\" he said. \"I'll have to change a few", "au": "Harry Leon Wilson"},
     ],
     "11_49": [
         {"b": "Richie hadn't made any outgoing calls after ", "t": "11:49 A.M.", "a": " However, there was a long list of incoming calls", "au": "Susan Isaacs"},
@@ -3149,7 +3204,7 @@ QUOTES = {
         {"b": "World Cup match between England and Argentina. At ", "t": "five minutes to twelve", "a": ", the doors were unlocked and the prisoners floode", "au": "Jeffrey Archer"},
         {"b": "aring off on his bicycle to one of the jobs about ", "t": "five minutes to twelve", "a": " to see if he could catch anyone leaving off for d", "au": "Robert Tressell"},
         {"b": "It was ", "t": "11:55 a.m.", "a": " on April 30.", "au": "Bernstein & Woodward"},
-        {"b": "What time did you arrive at the site?  \"It was ", "t": "11:55", "a": ". I remember since I happened to glance at my watc", "au": "Haruki Murakami"},
+        {"b": "\"What time did you arrive at the site?\"  \"It was ", "t": "11:55", "a": ". I remember since I happened to glance at my watc", "au": "Haruki Murakami"},
     ],
     "11_56": [
         {"b": "Aaron checked his watch on the run: ", "t": "four minutes to twelve", "a": ". He prayed that Harry would be late. Harry was ne", "au": "Jeffrey Archer"},
@@ -3268,7 +3323,7 @@ QUOTES = {
         {"b": "She left London on the ", "t": "twelve-fourteen", "a": " from Paddington, arriving at Bristol (where she h", "au": "Agatha Christie"},
     ],
     "12_15": [
-        {"b": "ms above from just before the stroke of noon to a ", "t": "quarter-past", "a": " - the usual period of my public prayers.", "au": "G.K. Chesterton"},
+        {"b": "ms above from just before the stroke of noon to a ", "t": "quarter-past", "a": " - the usual period of my public prayers.\"", "au": "G.K. Chesterton"},
         {"b": "if you ever want to go down there. I arrived at a ", "t": "quarter past twelve", "a": ", and went straight up to the house--you've never", "au": "P.G. Wodehouse"},
         {"b": "t night and look at the stars. Unfortunately it's ", "t": "12.15", "a": " on a grey dull day, the aeroplanes are active", "au": "Virginia Woolf"},
         {"b": "with this, too, you will have to part some day. A ", "t": "quarter past twelve", "a": ", twenty past twelve, half past\u2026 He allowed himsel", "au": "Vladimir Nabokov"},
@@ -3303,7 +3358,7 @@ QUOTES = {
     ],
     "12_23": [
         {"b": ".She noticed the time on the digital alarm clock. ", "t": "12:23", "a": ".", "au": "Matt Haig"},
-        {"b": "At what time did the ", "t": "12:23 p.m.", "a": " S-line bus proceeding in the direction of Porte d", "au": "Raymon Queneau"},
+        {"b": "\"At what time did the ", "t": "12:23 p.m.", "a": " S-line bus proceeding in the direction of Porte d", "au": "Raymon Queneau"},
     ],
     "12_24": [
         {"b": "", "t": "12:24", "a": " My legs are in total agony. I've been kneeling on", "au": "Sophie Kinsella"},
@@ -3330,10 +3385,13 @@ QUOTES = {
     ],
     "12_30": [
         {"b": "", "t": "Half-past twelve o\u2019clock", "a": " came; Turkey began to glow in the face, overturn", "au": "Herman Melville"},
-        {"b": "or ever meal - two hours Fanny - (can we lunch at ", "t": "half-past twelve", "a": " today?)", "au": "Nancy Mitford"},
+        {"b": "or ever meal - two hours Fanny - (can we lunch at ", "t": "half-past twelve", "a": " today?)\"", "au": "Nancy Mitford"},
         {"b": "", "t": "12.30 p.m.", "a": " Lunch", "au": "Mark Haddon"},
         {"b": "At ", "t": "half past twelve", "a": ", when Catherine\u2019s anxious attention to the weathe", "au": "Jane Austen"},
         {"b": "Tuesday, ", "t": "12.30 pm", "a": "\u2026 Baker, California\u2026 Into the Ballantine Ale now,", "au": "Hunter S. Thompson"},
+    ],
+    "12_31": [
+        {"b": "It was ", "t": "half past twelve", "a": ", and the afternoon felt inexhaustible.", "au": "Anonymous"},
     ],
     "12_32": [
         {"b": "ver the fireplace and made a record in his book. \"", "t": "12:32", "a": " Mr. Courtney-Brigs reports fallen tree across the", "au": "P.D. James"},
@@ -3342,6 +3400,9 @@ QUOTES = {
     "12_33": [
         {"b": "ight in the eye and said almost casually: \u201cIt was ", "t": "thirty-three minutes past twelve", "a": " by my watch.\"", "au": "P.D. James"},
         {"b": "It's ", "t": "12.33", "a": " now and I could do it, the station is just down t", "au": "Dorothy L. Sayers"},
+    ],
+    "12_34": [
+        {"b": "", "t": "12:34 P.M.", "a": "W.B., we've got a problem, he said into the microphone.", "au": "Thomas Hoover"},
     ],
     "12_35": [
         {"b": "or Rome. However, we managed to book you onto the ", "t": "twelve thirty-five", "a": " flight, and the airline has upgraded you to busin", "au": "Jeffrey Archer"},
@@ -3355,7 +3416,7 @@ QUOTES = {
         {"b": "It was ", "t": "12:37", "a": " when Jason, in blue jeans, cap and dark, tattered", "au": "Robert Ludlum"},
     ],
     "12_38": [
-        {"b": "ion of Porte de Champerret arrive on that day?\"At ", "t": "12:38 p.m.", "a": "\"\"Were there many people on the aforesaid S-bus?\"\"", "au": "Raymon Queneau"},
+        {"b": "on of Porte de Champerret arrive on that day?\"\"At ", "t": "12:38 p.m.", "a": "\"\"Were there many people on the aforesaid S-bus?\"\"", "au": "Raymon Queneau"},
     ],
     "12_39": [
         {"b": "thirty-three minutes past nine, and half flood at ", "t": "thirty-nine minutes past twelve", "a": ".", "au": "Victor Hugo"},
@@ -3383,7 +3444,7 @@ QUOTES = {
         {"b": "and read aloud. \"Look out for D. He has just now, ", "t": "12:45", "a": ", come from Carfax hurriedly and hastened towards", "au": "Bram Stoker"},
         {"b": "out of sorts, and because Robbie had not come by ", "t": "quarter to one", "a": ", Elizabeth treated herself to a Martini while she", "au": "Shirley Jackson"},
         {"b": "By this time it was a ", "t": "quarter to one o'clock", "a": ", but Karl Ivanitch never thought of releasing us,", "au": "Leo Tolstoy"},
-        {"b": "Good, he reflected. \"It is now a ", "t": "quarter to one", "a": ".", "au": "King, queen, knave"},
+        {"b": "\"Good, \"he reflected. \"It is now a ", "t": "quarter to one", "a": ".", "au": "King, queen, knave"},
     ],
     "12_46": [
         {"b": "And so at ", "t": "12:46 p.m.", "a": " on January 9th, 1955, a moribund world drew the f", "au": "Geoff St. Reynard"},
@@ -3451,7 +3512,7 @@ QUOTES = {
         {"b": "\u2019m with somebody else! Call me up to-morrow about ", "t": "one o\u2019clock", "a": "!\u201d", "au": "F. Scott Fitzgerald"},
         {"b": "had got that revolver. Downstairs a clock struck ", "t": "one", "a": ".", "au": "Agatha Christie"},
         {"b": "e dining-room, fair lady.\"\"There may be more than ", "t": "one", "a": ".\"\"Whoever is there, as the clock strikes one, wil", "au": "Baroness Orczy"},
-        {"b": "", "t": "One o'clock", "a": " pee em! Hello, Insert Name Here!", "au": "Terry Pratchett"},
+        {"b": "\"", "t": "One o'clock", "a": " pee em! Hello, Insert Name Here!\"", "au": "Terry Pratchett"},
         {"b": "Czarina Catherine reported entering Galatz at ", "t": "one o'clock", "a": " today.", "au": "Bram Stoker"},
         {"b": "", "t": "1.00 p.m.", "a": " First afternoon class", "au": "Mark Haddon"},
         {"b": "After ", "t": "1 o'clock", "a": " checks, Gretta always goes out for a smoke.", "au": "Susanna Kaysen"},
@@ -3475,6 +3536,9 @@ QUOTES = {
     "13_03": [
         {"b": "Monday ", "t": "1:03 P.M.", "a": "\"Michael, I'm terribly glad you could make it.\" Ke", "au": "Thomas Hoover"},
     ],
+    "13_04": [
+        {"b": "It's ", "t": "four minutes past one", "a": "! He frantically seized hold of the steps.", "au": "Robert Tressell"},
+    ],
     "13_05": [
         {"b": "the door, trying to block her view.\u201cIt's already ", "t": "five past one", "a": ",\u201d I can hear her saying a little sharply. \u201cAnd I", "au": "Sophie Kinsella"},
         {"b": "At ", "t": "five past one", "a": " Alleyn opened the outer door, knocked his pipe ou", "au": "Ngaio Marsh"},
@@ -3497,7 +3561,7 @@ QUOTES = {
         {"b": "t every counting house, then they had to leave by ", "t": "1:10", "a": ".", "au": "Jeffrey Archer"},
         {"b": "It was at ", "t": "ten minutes past one", "a": " by Bond\u2019s watch when, at the high table, the whol", "au": "Ian Fleming"},
         {"b": "ding day. The clock above the cigarette rack says ", "t": "1:10", "a": ".\u201cGotta run,\u201d I say to the old man, and I do.", "au": "Audrey Niffenegger"},
-        {"b": "It was ", "t": "ten minutes past one", "a": ".\u201d\u201cYou are sure of that?", "au": "Agatha Christie"},
+        {"b": "\"It was ", "t": "ten minutes past one", "a": ".\u201d\u201cYou are sure of that?\"", "au": "Agatha Christie"},
     ],
     "13_11": [
         {"b": "found there was a gentleman wi' a bicycle tuk the ", "t": "1.11", "a": " train at Girvan.", "au": "Dorothy L. Sayers"},
@@ -3532,8 +3596,8 @@ QUOTES = {
         {"b": "It was ", "t": "past one in the afternoon", "a": " when the servant waked her and announced that M.", "au": "Anton Pavlovich Chekhov"},
     ],
     "13_20": [
-        {"b": "Trafalgar Tavern, but we didn't leave here until ", "t": "twenty past one", "a": ".", "au": "P.D. James"},
-        {"b": "al to Purga: Diving at\u2014,\" he checked his watch, \"\u2014", "t": "1320 hours", "a": ". Exercise OCTOBER FROST begins as scheduled. You", "au": "Tom Clancy"},
+        {"b": "Trafalgar Tavern, but we didn't leave here until ", "t": "twenty past one", "a": ".\"", "au": "P.D. James"},
+        {"b": "l to Purga: \"Diving at\u2014,\" he checked his watch, \"\u2014", "t": "1320 hours", "a": ". Exercise OCTOBER FROST begins as scheduled. You", "au": "Tom Clancy"},
         {"b": ". It will take him time to arrive here, see it is ", "t": "twenty minutes past one", "a": ", and there are yet some times before he can hithe", "au": "Bram Stoker"},
     ],
     "13_21": [
@@ -3587,6 +3651,12 @@ QUOTES = {
     "13_35": [
         {"b": "Fletcher checked his watch again. It was ", "t": "1:35 P.M.", "a": " He sighed and asked the receptionist if he could", "au": "Jeffrey Archer"},
     ],
+    "13_36": [
+        {"b": "", "t": "One thirty-six", "a": " in the afternoon. The last quiet hour before things changed.", "au": "Anonymous"},
+    ],
+    "13_37": [
+        {"b": "he was on the job, and he scribbled ", "t": "1.37 pm", "a": ". Subject appears to be getting nervous.", "au": "William Monahan"},
+    ],
     "13_38": [
         {"b": "the digital readout inside my helmet, it was only ", "t": "13:38", "a": " LT. The news that I wouldn't have to devote anoth", "au": "Adam-Troy Castro"},
     ],
@@ -3604,13 +3674,38 @@ QUOTES = {
         {"b": "The last note was recorded at ", "t": "1.42 pm", "a": ": G.M. on site at H-by; will take over the matter.", "au": "Stieg Larsson"},
     ],
     "13_43": [
-        {"b": "There's a train at ", "t": "seventeen minutes to two", "a": ", said Didier. He blessed himself and got to his f", "au": "Jef Geeraerts"},
+        {"b": "\"There's a train at ", "t": "seventeen minutes to two", "a": ",\" said Didier. He blessed himself and got to his", "au": "Jef Geeraerts"},
     ],
     "13_44": [
         {"b": "By good luck, the next train was due at ", "t": "forty-four minutes past one", "a": ", and arrived at Yateland (the next station) ten m", "au": "Wilkie Collins"},
     ],
     "13_45": [
-        {"b": "nt Harvey leaves his box. My guess is that around ", "t": "1:45", "a": " he\u2019ll come and look at the runners and riders for", "au": "Joseph Sheridan Le Fanu"},
+        {"b": "nt Harvey leaves his box. My guess is that around ", "t": "1:45", "a": " he\u2019ll come and look at the runners and riders for", "au": "Jeffrey Archer"},
+        {"b": "ith the score at a hundred and thirty-one, when a ", "t": "quarter to two", "a": " arrived, and with it the luncheon interval.", "au": "P.G. Wodehouse"},
+        {"b": "The blow fell at precisely ", "t": "one forty-five", "a": " (summer-time). Benson, my Aunt Agatha's butler, w", "au": "P.G. Wodehouse"},
+    ],
+    "13_46": [
+        {"b": "noticed Malatarsis right after Mama called me. At ", "t": "1346 hours", "a": " on Thursday the twenty-fourth. Brett was killed a", "au": "Julian May"},
+    ],
+    "13_47": [
+        {"b": "omplete an essay before the 2 pm deadline. It was ", "t": "1.47 pm", "a": ".", "au": "Sue Townsend"},
+    ],
+    "13_48": [
+        {"b": "It was ", "t": "twelve minutes to two", "a": " in the afternoon when Claude Moreau and his most-", "au": "Robert Ludlum"},
+    ],
+    "13_49": [
+        {"b": "seen the passenger in grey pass the bookstall at ", "t": "1.49", "a": ", in the direction of the exit.", "au": "Dorothy L. Sayers"},
+    ],
+    "13_50": [
+        {"b": "ahel's toy wristwatch had the time painted on it. ", "t": "Ten to two", "a": ". One of her ambitions was to own a watch on which", "au": "Arundhati Roy"},
+        {"b": "The best train of the day was the ", "t": "one-fifty", "a": " from Paddington which reached Polgarwith just aft", "au": "Agatha Christie"},
+    ],
+    "13_51": [
+        {"b": "Which meant that now, at ", "t": "1:51 p.m.", "a": ", lower Manhattan was a nightmare. Wall Street had", "au": "Marcus Sakey"},
+    ],
+    "13_52": [
+        {"b": "the Damascus Gate into the International Zone at ", "t": "eight minutes to two", "a": ", carefully avoiding the telltale times of the hou", "au": "Chris Moriarty"},
+        {"b": "tell you. It is near to your luncheon hour. Yes; ", "t": "eight minutes to two", "a": ". Vivian will be at luncheon. I don't lunch, but I", "au": "Joseph Sheridan Le Fanu"},
     ],
     "13_53": [
         {"b": "from your lunch at the proper time. It was fully ", "t": "seven minutes to two", "a": " when you returned, and-\"", "au": "P.G. Wodehouse"},
@@ -3621,6 +3716,9 @@ QUOTES = {
     "13_55": [
         {"b": "At ", "t": "1:55", "a": " he returned to the insurance records until the fi", "au": "Jeffrey Archer"},
         {"b": "unctual in arriving there; I came the next day at ", "t": "five minutes before two", "a": ", and on reaching the schoolroom door, before I op", "au": "Charlotte Bront\u00eb"},
+    ],
+    "13_56": [
+        {"b": "", "t": "1:56 P.M.", "a": "Katelyn was out of the dorm room, off doing whatever she did.", "au": "J. Ryan Stradal"},
     ],
     "13_57": [
         {"b": "n I opened my eyes and looked at my watch. It was ", "t": "one fifty-seven", "a": ". Twenty-five minutes had vanished somewhere. Not", "au": "Haruki Murakami"},
@@ -3668,7 +3766,7 @@ QUOTES = {
     ],
     "14_02": [
         {"b": "of a Government employe is punctuality, sir!' At ", "t": "two minutes past two", "a": " not a soul was left in one of the rooms.", "au": "August Strindberg"},
-        {"b": "t dead. How did that happen? He was right. It was ", "t": "14.02", "a": " and twenty-six seconds. Destiny had not been fulf", "au": "Jasper Fforde"},
+        {"b": "dead. How did that happen?\" He was right. It was ", "t": "14.02", "a": " and twenty-six seconds. Destiny had not been fulf", "au": "Jasper Fforde"},
     ],
     "14_03": [
         {"b": "It was ", "t": "three minutes after two in the afternoon", "a": ", and the Battle of Tahuma had begun.", "au": "Chris Walley"},
@@ -3690,7 +3788,7 @@ QUOTES = {
         {"b": "At ", "t": "eight minutes past two", "a": ", the gloomy-faced man, standing by the wide y of", "au": "Kenneth Robeson"},
     ],
     "14_09": [
-        {"b": "Tyne, said Butler, \"left the North Tower lobby at ", "t": "14:09", "a": " by up tube on the elevators and arrived at the ch", "au": "Gordon R. Dickson"},
+        {"b": "yne,\" said Butler, \"left the North Tower lobby at ", "t": "14:09", "a": " by up tube on the elevators and arrived at the ch", "au": "Gordon R. Dickson"},
     ],
     "14_10": [
         {"b": "He arrived at her house at ", "t": "2:10 P.M.", "a": ", two videotapes in one hand, and a single bag of", "au": "James Han Mattson"},
@@ -3729,7 +3827,7 @@ QUOTES = {
     ],
     "14_20": [
         {"b": "He checked his watch: ", "t": "2:20 p.m.", "a": " Kickoff at 3:00. Forty thousand fans were all hea", "au": "Jeffrey Archer"},
-        {"b": "", "t": "Twenty past two", "a": ". Want to go back to the hotel for a while?\"All ri", "au": "Brian Moore"},
+        {"b": "\"", "t": "Twenty past two", "a": ". Want to go back to the hotel for a while?\"\"All r", "au": "Brian Moore"},
         {"b": "She looked at her watch and it was ", "t": "twenty minutes past two", "a": ". She had no time to lose but must get ready at on", "au": "Charles Dickens"},
         {"b": "r as one he had wound and set for Edwin Drood, at ", "t": "twenty minutes past two", "a": " on that same afternoon; and it had run down, befo", "au": "Charles Dickens"},
         {"b": "", "t": "Twenty minutes after two", "a": ", on my way to San Diego, listening to some weird,", "au": "Richard Matheson"},
@@ -3741,7 +3839,7 @@ QUOTES = {
         {"b": "you, but I'll leave a brief message on your tape. ", "t": "Two-twenty-two", "a": " or there-aboutish. Great party.", "au": "Carol Shields"},
     ],
     "14_23": [
-        {"b": "", "t": "Twenty-three minutes past two", "a": ", he announced.\"Never!\" ejaculated Crosthwaite inc", "au": "Percy F. Westerman"},
+        {"b": "\"", "t": "Twenty-three minutes past two", "a": ",\" he announced.\"Never!\" ejaculated Crosthwaite in", "au": "Percy F. Westerman"},
         {"b": "ly a wonder. What time is it? Who\u2019s got a watch?\u201d\u201c", "t": "Two twenty-three", "a": ",\u201d replied Evan. \u201cI\u2019ll have to hurry or I won\u2019t ge", "au": "Ralph Henry Barbour"},
     ],
     "14_24": [
@@ -3821,7 +3919,7 @@ QUOTES = {
     ],
     "14_43": [
         {"b": "The ", "t": "14.43", "a": " pulled into Tunbridge Wells on time, and William", "au": "Jeffrey Archer"},
-        {"b": "u saw between one o'clock when lunch was over and ", "t": "two-forty-three", "a": " when Miss Gray found the body.", "au": "P.D. James"},
+        {"b": "u saw between one o'clock when lunch was over and ", "t": "two-forty-three", "a": " when Miss Gray found the body.\"", "au": "P.D. James"},
         {"b": "ng her. He looked at his watch for the third time\u2014", "t": "seventeen minutes to three", "a": ". Just about the time he had planned. She should b", "au": "Mary Louisa Molesworth"},
     ],
     "14_44": [
@@ -3855,7 +3953,7 @@ QUOTES = {
         {"b": "At ", "t": "nine minutes to three", "a": ", the storm came back. It rolled in on angry, broo", "au": "John Skipp and Craig Spector"},
     ],
     "14_52": [
-        {"b": "Mr. Kesselbach, it is ", "t": "eight minutes to three", "a": ". If you don't answer within eight minutes from no", "au": "Maurice LeBlanc"},
+        {"b": "\"Mr. Kesselbach, it is ", "t": "eight minutes to three", "a": ". If you don't answer within eight minutes from no", "au": "Maurice LeBlanc"},
     ],
     "14_53": [
         {"b": "At ", "t": "2:53", "a": " they were ushered into an empty conference room.", "au": "Jeffrey Archer"},
@@ -3913,8 +4011,8 @@ QUOTES = {
         {"b": "in his memory would have been impossible: eating ", "t": "three-o\u2019clock", "a": ", after-dance suppers in impossible cafes, talking", "au": "F. Scott Fitzgerald"},
         {"b": "The afternoon waned from the purging good of ", "t": "three o\u2019clock", "a": " to the golden beauty of four.", "au": "F. Scott Fitzgerald"},
         {"b": "ed the safety of his office.Carlo shrugged. \u201cIt\u2019s ", "t": "three o\u2019clock", "a": ".\u201d\u201cI\u2019m aware of the time, Carlo. Why are there so", "au": "Anthony Capella"},
-        {"b": "I gotta get uptown by ", "t": "three o'clock", "a": ".", "au": "John Kennedy Toole"},
-        {"b": "Remember, they shouted, \"battle at ", "t": "three o'clock", "a": " sharp. There's no time to lose.\"", "au": "Arthur Ransome"},
+        {"b": "\"I gotta get uptown by ", "t": "three o'clock", "a": ".\"", "au": "John Kennedy Toole"},
+        {"b": "\"Remember,\" they shouted, \"battle at ", "t": "three o'clock", "a": " sharp. There's no time to lose.\"", "au": "Arthur Ransome"},
         {"b": "mething scratching at the door. Who at this hour? ", "t": "Three", "a": ", good Heavens! Three already!", "au": "Virginia Woolf"},
         {"b": "At ", "t": "three o'clock", "a": " on the afternoon of that same day, he called on h", "au": "Guy de Maupassant"},
         {"b": "At ", "t": "three", "a": " on the Wednesday afternoon, that bit of the paint", "au": "Wilkie Collins"},
@@ -4011,7 +4109,7 @@ QUOTES = {
         {"b": "He checked his watch. Only ", "t": "3:20", "a": ", but that was close enough for government work. C", "au": "Stephen King"},
         {"b": "When the phone rang at ", "t": "three twenty", "a": " I was sprawled out on the tatami, starting at the", "au": "Haruki Murakami"},
         {"b": "At ", "t": "twenty minutes past three", "a": " on Monday, 26 January 1948, in Tokyo, and I am dr", "au": "David Peace"},
-        {"b": "places there are in the universe. And times, too.\"", "t": "Twenty past one", "a": ", for example,\" said the Patrician.", "au": "Terry Pratchett"},
+        {"b": "laces there are in the universe. And times, too.\"\"", "t": "Twenty past one", "a": ", for example,\" said the Patrician.", "au": "Terry Pratchett"},
     ],
     "15_21": [
         {"b": "", "t": "3:21 P.M.", "a": "\"Let them go,\" Ramirez said. \"We have what we need", "au": "Thomas Hoover"},
@@ -4039,7 +4137,7 @@ QUOTES = {
     ],
     "15_28": [
         {"b": "\u201c", "t": "Three twenty-eight", "a": "!\u201d he cried, excitedly. \u201cDidn\u2019t I tell you! Who sa", "au": "Hulbert Footner"},
-        {"b": "Good heavens! she said, \"it's ", "t": "nearly half-past three", "a": ". I must fly. Don't forget about the funeral servi", "au": "Aldous Leonard Huxley"},
+        {"b": "\"Good heavens!\" she said, \"it's ", "t": "nearly half-past three", "a": ". I must fly. Don't forget about the funeral servi", "au": "Aldous Leonard Huxley"},
     ],
     "15_29": [
         {"b": "Wednesday ", "t": "3:29 P.M.", "a": " \"Michael, you look marvelous. It's so good to see", "au": "Thomas Hoover"},
@@ -4056,7 +4154,7 @@ QUOTES = {
         {"b": "e to spare, for when the knock came on my door at ", "t": "half past three", "a": " precisely, I had been sitting in my chair waiting", "au": "Kazuo Ishiguro"},
     ],
     "15_31": [
-        {"b": "At ", "t": "three-thirty one and a half", "a": " by my wrist watch--the only piece of jewelry, by", "au": "Charles Somerville"},
+        {"b": "\"At ", "t": "three-thirty one and a half", "a": " by my wrist watch--the only piece of jewelry, by", "au": "Charles Somerville"},
     ],
     "15_32": [
         {"b": "At ", "t": "3:32", "a": " precisely, I noticed Kaitlyn striding confidently", "au": "John Green"},
@@ -4318,7 +4416,25 @@ QUOTES = {
         {"b": "October 21, 2007, ", "t": "4:29 pm", "a": ". The phone was red. And what William hated most a", "au": "Mark Lavorato"},
     ],
     "16_30": [
-        {"b": "ut his watch, \u201cI can spend an hour with you. It\u2019s ", "t": "half-past four", "a": " now. If only I\u2019d been something, a landowner, a f", "au": "Denis Johnson"},
+        {"b": "ut his watch, \u201cI can spend an hour with you. It\u2019s ", "t": "half-past four", "a": " now. If only I\u2019d been something, a landowner, a f", "au": "Fyodor Dostoyevsky"},
+        {"b": "At ", "t": "4:30", "a": " Gunther came back to House Berg with his arms ful", "au": "Edna Hong"},
+        {"b": "local police wouldn't relish being called out at ", "t": "4:30", "a": " on Christmas Eve, and if this was some kind of ho", "au": "P.D. James"},
+        {"b": "go in,\u201d she says. \u201cI\u2019ll meet you on the steps at ", "t": "four-thirty", "a": ". We can take the girls to Murray\u2019s for a sundae o", "au": "Margaret Atwood"},
+        {"b": "rate need of a chiropractor. He checks his watch. ", "t": "Four thirty", "a": "\u2026but is it a.m. or p.m.?", "au": "Steve Alten"},
+        {"b": "ng up, did she disappear forever, sucked into the ", "t": "four thirty p.m.", "a": " shadows? Was I partly to blame? I want you to und", "au": "Haruki Murakami"},
+        {"b": "At ", "t": "four-thirty", "a": " I dash out of the hotel, resolved to make a last-", "au": "Henry Miller"},
+        {"b": "A server is woken at hour ", "t": "four-thirty", "a": " by stimulin in the airflow, then yellow-up in our", "au": "David Mitchell"},
+        {"b": "When the swing shift comes on duty the clock says ", "t": "four-thirty", "a": ", just like it should.", "au": "Ken Kesey"},
+        {"b": "I looked at the clock. It was ", "t": "half-past four", "a": ". \u201cHad no idea what hour it was,\u201d Brett said. \u201cI s", "au": "Ernest Hemingway"},
+        {"b": "At ", "t": "four-thirty", "a": " that afternoon in late January when I stepped int", "au": "Dean Koontz"},
+        {"b": "I leave the office at ", "t": "four thirty", "a": ", head up to Xclusive where I work out on free wei", "au": "Bret Easton Ellis"},
+        {"b": "afternoon, mushily holding hands in the dark at a ", "t": "four-thirty", "a": " screening of L ove and Death at the National Film", "au": "Alain de Botton"},
+    ],
+    "16_31": [
+        {"b": "From: Renee Greene \u2013 August 5, 2011 \u2013 ", "t": "4:31 PM", "a": " To: Shelley Manning Subject: Re: All Access What", "au": "Lisa Becker"},
+    ],
+    "16_32": [
+        {"b": "", "t": "4.32 pm", "a": ". Now the eight Marines next to us leave their emp", "au": "Denis Johnson"},
     ],
     "16_33": [
         {"b": "At ", "t": "4.33 pm", "a": ", a short bald man puffing on a cigar arrived at t", "au": "Jos\u00e9 Latour"},
@@ -4389,10 +4505,10 @@ QUOTES = {
         {"b": "", "t": "4:49 p.m.", "a": ", a bald-headed man wearing khakis and ankle-high", "au": "Ridley Pearson"},
     ],
     "16_50": [
-        {"b": "anding at Platform 3, the Voice told her, \"is the ", "t": "4.50", "a": " for Brackhampton, Milchester, Waverton, Carvil Ju", "au": "Agatha Christie"},
+        {"b": "nding at Platform 3,\" the Voice told her, \"is the ", "t": "4.50", "a": " for Brackhampton, Milchester, Waverton, Carvil Ju", "au": "Agatha Christie"},
         {"b": "seven years before, and after that it was always ", "t": "ten minutes to five", "a": " in the castle.", "au": "James Thurber"},
         {"b": "When the clock said ", "t": "ten minutes to five", "a": ", she began to listen, and a few moments later, pu", "au": "Roald Dahl"},
-        {"b": "", "t": "Ten minutes to five", "a": ".\"Got to get up in a minute and shell those peas f", "au": "Ray Bradbury"},
+        {"b": "\"", "t": "Ten minutes to five", "a": ".\"\"Got to get up in a minute and shell those peas", "au": "Ray Bradbury"},
     ],
     "16_51": [
         {"b": "At ", "t": "4:51", "a": ", a figure in a cherry - red parka exits the libra", "au": "Anthony Doerr"},
@@ -4432,7 +4548,7 @@ QUOTES = {
         {"b": "omeone asked him what time it was, he would say, \"", "t": "A minute and twenty-one seconds to five", "a": ".\"", "au": "Isaac Bashevis Singer"},
     ],
     "16_59": [
-        {"b": "", "t": "One minute to five", "a": ".The needles flashed silver fire. They swam like a", "au": "Ray Bradbury"},
+        {"b": "\"", "t": "One minute to five", "a": ".\"The needles flashed silver fire. They swam like", "au": "Ray Bradbury"},
     ],
     "17_00": [
         {"b": "The gloomy ", "t": "five o'clock", "a": " sky was such as you might see on any autumn after", "au": "C.S. Lewis"},
@@ -4495,13 +4611,14 @@ QUOTES = {
         {"b": "", "t": "About five", "a": ", the Abbot, a young Manchester terrier, began chi", "au": "Christina Stead"},
     ],
     "17_08": [
-        {"b": "nication we had with Dwight Sloane was yesterday. ", "t": "Five-oh-eight P.M.", "a": " Here. He put his finger on a lake called Embarras", "au": "William Kent Krueger"},
+        {"b": "nication we had with Dwight Sloane was yesterday. ", "t": "Five-oh-eight P.M.", "a": " Here.\" He put his finger on a lake called Embarra", "au": "William Kent Krueger"},
     ],
     "17_09": [
         {"b": "She looked at her watch and saw it was ", "t": "nine minutes past five", "a": ". \"It's happening, Daddy! The sun's going out!\"\"Ye", "au": "Stephen King"},
     ],
     "17_10": [
         {"b": "having itself. When the Guardian checked again at ", "t": "5:10 p.m.", "a": ", it expected to find it sunward from us, but it w", "au": "Chris Walley"},
+        {"b": "But there is the timing point. It had gone by at ", "t": "5:10 p.m.", "a": " Central Menaya time and Merral saw his object com", "au": "Chris Walley"},
         {"b": "ipes can't make it six o'clock when my watch says ", "t": "ten minutes past five", "a": ".\"", "au": "George MacDonald"},
         {"b": "le. He hung up and looked around the room. It was ", "t": "ten after five", "a": ", Monday afternoon.", "au": "Lee Child"},
         {"b": "", "t": "Five ten P.M.", "a": " A ground-to-ground cruise missile, launched from", "au": "Tip \"T.I.\" Harris with David Ritz"},
@@ -4511,13 +4628,13 @@ QUOTES = {
         {"b": "At ", "t": "eleven minutes past five", "a": " Dick Bellamy stopped Melchard's car outside the b", "au": "Oliver Fleming"},
     ],
     "17_12": [
-        {"b": "re we are, said Colonel Julyan, \"and it's exactly ", "t": "twelve minutes past five", "a": ". We shall catch them in the middle of their tea.", "au": "Daphne du Maurier"},
+        {"b": "e we are,\" said Colonel Julyan, \"and it's exactly ", "t": "twelve minutes past five", "a": ". We shall catch them in the middle of their tea.", "au": "Daphne du Maurier"},
     ],
     "17_13": [
         {"b": "So at ", "t": "17.13", "a": " Callum Green was buying a necklace and something", "au": "G.J Minett"},
     ],
     "17_14": [
-        {"b": "know what time it is, Atticus? she said. \"Exactly ", "t": "fourteen minutes past five", "a": ". The alarm clock's set for five-thirty. I want yo", "au": "Harper Lee"},
+        {"b": "now what time it is, Atticus?\" she said. \"Exactly ", "t": "fourteen minutes past five", "a": ". The alarm clock's set for five-thirty. I want yo", "au": "Harper Lee"},
     ],
     "17_15": [
         {"b": "It was only a ", "t": "quarter past five", "a": ", but the evening was as dark as midnight. And whe", "au": "P.D. James"},
@@ -4526,7 +4643,7 @@ QUOTES = {
         {"b": "ditioned Divisional Fighter Control bunker it was ", "t": "17:15 hrs", "a": " CET. The day had ripened into one of those mellow", "au": "Len Deighton"},
     ],
     "17_16": [
-        {"b": "ening was on the London Underground, Circle line, ", "t": "17.16 p.m.", "a": "She went on to describe what had happened or not q", "au": "Stella Whitelaw"},
+        {"b": "ening was on the London Underground, Circle line, ", "t": "17.16 p.m.", "a": "\"She went on to describe what had happened or not", "au": "Stella Whitelaw"},
     ],
     "17_17": [
         {"b": "And it was just ", "t": "seventeen minutes past five", "a": " when Dick French, hanging in a frenzy of anxiety", "au": "Eleanor M. Ingram"},
@@ -4539,7 +4656,7 @@ QUOTES = {
         {"b": "The call came at ", "t": "5.19 p.m.", "a": " The line was surprisingly clear. A man introduced", "au": "Henning Mankell"},
     ],
     "17_20": [
-        {"b": "e into a zoo. He glanced at his watch. \"It's only ", "t": "five-twenty", "a": ". Kidnapper's call is supposed to come at six. We'", "au": "William Kent Krueger"},
+        {"b": "into a zoo.\" He glanced at his watch. \"It's only ", "t": "five-twenty", "a": ". Kidnapper's call is supposed to come at six. We'", "au": "William Kent Krueger"},
         {"b": "ghts, she estimates she can be at her building by ", "t": "five-twenty", "a": ".", "au": "Stephen King"},
         {"b": "isted as starting at 1730, and it was only around ", "t": "1720", "a": ", and Hal thought the voices might signify some so", "au": "David Foster Wallace"},
     ],
@@ -4557,12 +4674,12 @@ QUOTES = {
     ],
     "17_25": [
         {"b": "By ", "t": "5:25", "a": " neither of them was at his side and his famous \u201cc", "au": "Jeffrey Archer"},
-        {"b": "I left Weymouth Street at about ", "t": "five twenty-five", "a": ", but I expect the dental nurse and the receptioni", "au": "P.D. James"},
+        {"b": "\"I left Weymouth Street at about ", "t": "five twenty-five", "a": ", but I expect the dental nurse and the receptioni", "au": "P.D. James"},
         {"b": "It was ", "t": "five-twenty-five", "a": " when I pulled up in front of the library. Still e", "au": "Haruki Murakami"},
         {"b": "y, when Angela had poured out the last cup, \"it's ", "t": "twenty-five minutes past five", "a": ", at half-past the Murder game is on.\"", "au": "Ngaio Marsh"},
     ],
     "17_26": [
-        {"b": "There's a train that leaves Totnes at ", "t": "twenty-six minutes past five", "a": " this afternoon, I said, \"and it reaches London at", "au": "Bernard Cornwell"},
+        {"b": "\"There's a train that leaves Totnes at ", "t": "twenty-six minutes past five", "a": " this afternoon,\" I said, \"and it reaches London a", "au": "Bernard Cornwell"},
     ],
     "17_27": [
         {"b": "One evening at ", "t": "5:27", "a": ", when Septimus was closing the file on the last c", "au": "Jeffrey Archer"},
@@ -4572,7 +4689,7 @@ QUOTES = {
         {"b": "And so, when he told her on May 15 at ", "t": "5:28", "a": " in the afternoon that he had to be moving on, she", "au": "Judy Blume"},
     ],
     "17_29": [
-        {"b": "Well? he said.  \"It's ", "t": "twenty-nine minutes past five", "a": ", Insert Name Here,\" said the imp nervously.", "au": "Terry Pratchett"},
+        {"b": "\"Well?\" he said.  \"It's ", "t": "twenty-nine minutes past five", "a": ", Insert Name Here,\" said the imp nervously.", "au": "Terry Pratchett"},
     ],
     "17_30": [
         {"b": "It was ", "t": "half-past five", "a": " before Holmes returned. He was bright, eager, and", "au": "Sir Arthur Conan Doyle"},
@@ -4592,11 +4709,14 @@ QUOTES = {
         {"b": "It was ", "t": "five thirty-three", "a": " when we left. Is it six o'clock now? Six thirty?", "au": "Margaret Peterson Haddix"},
         {"b": "At ", "t": "5:33 p.m.", "a": " there is a blast of two deep, resonant notes a ma", "au": "Lydia Davis"},
     ],
+    "17_34": [
+        {"b": "At five-thirty. I arrived about ", "t": "four minutes later", "a": ". Judging by the appearance of the blood.", "au": "P.D. James"},
+    ],
     "17_35": [
         {"b": "At ", "t": "5:35", "a": ", he got word over the radio that Helmunth Hanover", "au": "William Kent Krueger"},
     ],
     "17_36": [
-        {"b": "four minutes before it ended.\"So that occurred at ", "t": "precisely twenty-four minutes before six", "a": "?\"\"Exactly.\"", "au": "Charles Palliser"},
+        {"b": "our minutes before it ended.\"\"So that occurred at ", "t": "precisely twenty-four minutes before six", "a": "?\"\"Exactly.\"", "au": "Charles Palliser"},
     ],
     "17_37": [
         {"b": "said Joe when Lucille strolled into the office at ", "t": "5:37", "a": ". \"I don't know what you said to this gal, but it", "au": "Helen DeWitt"},
@@ -4611,11 +4731,14 @@ QUOTES = {
     ],
     "17_40": [
         {"b": "other business\u201d to raise, I closed the meeting at ", "t": "5:40", "a": ", and suggested to Jeremy that he join Rosemary an", "au": "Jeffrey Archer"},
-        {"b": "What? I said, \"is it 5:30 yet?\"\"Er, ", "t": "5:40", "a": ".\" Heavens, they'll be starving. But then that's a", "au": "Zhu Wen"},
+        {"b": "\"What?\" I said, \"is it 5:30 yet?\"\"Er, ", "t": "5:40", "a": ".\" Heavens, they'll be starving. But then that's a", "au": "Zhu Wen"},
         {"b": "It's ", "t": "five-forty", "a": " now. The party's at six. By about ten past, the e", "au": "Sophie Kinsella"},
     ],
+    "17_41": [
+        {"b": "All right, people. Sunset's at ", "t": "17:41", "a": " and we've got twenty-three kilometres to go.", "au": "Tanya Huff"},
+    ],
     "17_42": [
-        {"b": "unting the seconds, it burst upon them at exactly ", "t": "forty-two minutes past five", "a": ", on the sixth day of the week.", "au": "James De Mille"},
+        {"b": "unting the seconds, it burst upon them at exactly ", "t": "forty-two minutes past five", "a": ", on the sixth day of the week.\"", "au": "James De Mille"},
     ],
     "17_43": [
         {"b": "first class. The Boeing Stratocruiser took off at ", "t": "5:43 p.m.", "a": ", just a few minutes behind schedule.", "au": "Jeffrey Archer"},
@@ -4643,7 +4766,7 @@ QUOTES = {
     ],
     "17_50": [
         {"b": "He glanced up at the clock above the door: ", "t": "ten to six", "a": ". Young Kevin would appear through that door at an", "au": "Jeffrey Archer"},
-        {"b": "What time is it Jack?\"", "t": "Ten to six", "a": "\"\"Ten more minutes then.\" I shuffle the cards. \"Ti", "au": "Malorie Blackman"},
+        {"b": "\"What time is it Jack?\"\"", "t": "Ten to six", "a": "\"\"Ten more minutes then.\" I shuffle the cards. \"Ti", "au": "Malorie Blackman"},
         {"b": "home. Cork and McDougal found her red Mustang at ", "t": "5:50", "a": ".", "au": "William Kent Krueger"},
     ],
     "17_51": [
@@ -4686,7 +4809,7 @@ QUOTES = {
         {"b": "oday that would get me into Amsterdam just before ", "t": "six", "a": ".\u201d", "au": "John Connolly"},
         {"b": "As ", "t": "six o\u2019clock", "a": " approached, Cryer strolled to the open door of th", "au": "John Burke"},
         {"b": "\u201cIt\u2019s only ", "t": "six o\u2019clock", "a": ",\u201d he observed with a yawn, and then, in a moment,", "au": "Norton Juster"},
-        {"b": "When is his tea-time? I inquired.\"Oh, at ", "t": "six o\u2019clock", "a": ". He keeps early hours in the country. You had bet", "au": "Charlotte Bront\u00eb"},
+        {"b": "\"When is his tea-time?\" I inquired.\"Oh, at ", "t": "six o\u2019clock", "a": ". He keeps early hours in the country. You had bet", "au": "Charlotte Bront\u00eb"},
         {"b": "s one space left, the last appointment of the day ", "t": "six p.m.", "a": "\u201cI\u2019ll pop him down there. Could someone let him kn", "au": "Jo Baker"},
         {"b": "Dan lay awake until ", "t": "six", "a": ". Then he dressed and once more made the trek to t", "au": "Stephen King"},
         {"b": "stomers\u2019 order!The restaurant opened its doors at ", "t": "six o\u2019clock", "a": ", but guests were slow to arrive because of the do", "au": "Haruki Murakami"},
@@ -4718,14 +4841,14 @@ QUOTES = {
         {"b": "David had followed me at ", "t": "one minute past six", "a": ". Then three others had managed to get away, makin", "au": "Roald Dahl"},
     ],
     "18_02": [
-        {"b": "ndred and fifty kilometers north of Herrandown at ", "t": "6:02 p.m.", "a": " But there is a major problem.", "au": "Chris Walley"},
+        {"b": "ndred and fifty kilometers north of Herrandown at ", "t": "6:02 p.m.", "a": " But there is a major problem.\"", "au": "Chris Walley"},
     ],
     "18_03": [
         {"b": "rrod stared at the clock on his computer. It said ", "t": "6:03", "a": ". Outside his office window it was dark. It felt a", "au": "Jilliane Hoffman"},
         {"b": "arliament, with the hands of the clock stopped at ", "t": "three minutes past six", "a": ". It was difficult to believe that all that meant", "au": "John Wyndham"},
     ],
     "18_04": [
-        {"b": "the years of our life.\"We will, we will, Alonzo!\"\"", "t": "Four minutes after six", "a": ", in the evening, my Rosannah...\"", "au": "Mark Twain"},
+        {"b": "he years of our life.\"\"We will, we will, Alonzo!\"\"", "t": "Four minutes after six", "a": ", in the evening, my Rosannah...\"", "au": "Mark Twain"},
     ],
     "18_05": [
         {"b": "", "t": "6:05 p.m.", "a": " Wonder where everybody is? I suppose they are all", "au": "Helen Fielding"},
@@ -4745,7 +4868,7 @@ QUOTES = {
     ],
     "18_10": [
         {"b": "see your passenger list for yesterday afternoon\u2019s ", "t": "6.10", "a": " flight for Brussels.\u2019", "au": "Jeffrey Archer"},
-        {"b": "me see now. You had a drink at the Continental at ", "t": "six ten", "a": ".\"Yes.\"\"And at six forty-five you were talking to", "au": "Graham Greene"},
+        {"b": "me see now. You had a drink at the Continental at ", "t": "six ten", "a": ".\"\"Yes.\"\"And at six forty-five you were talking to", "au": "Graham Greene"},
     ],
     "18_11": [
         {"b": "The first explosion occurred at ", "t": "eleven minutes past six", "a": ". The chart-house and part of the bridge were blow", "au": "George Barr McCutcheon"},
@@ -4759,8 +4882,11 @@ QUOTES = {
     "18_13": [
         {"b": "It\u2019s ", "t": "06:13", "a": ", that\u2019s getting nearly to be the evening. Ma says", "au": "Emma Donoghue"},
     ],
+    "18_14": [
+        {"b": "At ", "t": "fourteen minutes past six", "a": " the front door opened and he stepped into the evening.", "au": "Anonymous"},
+    ],
     "18_15": [
-        {"b": "", "t": "Quarter past six", "a": ", said Tony. \"He's bound to have told her by now.\"", "au": "Evelyn Waugh"},
+        {"b": "\"", "t": "Quarter past six", "a": ",\" said Tony. \"He's bound to have told her by now.", "au": "Evelyn Waugh"},
         {"b": "At a ", "t": "quarter past six", "a": " he was through with them.", "au": "Penelope Lively"},
         {"b": "I checked the time on the corner of my screen. ", "t": "6.15 pm.", "a": " I was never going to finish my essay in forty-fiv", "au": "Sophie McKenzie"},
     ],
@@ -4787,7 +4913,7 @@ QUOTES = {
     ],
     "18_22": [
         {"b": "", "t": "18:22 GMT", "a": "\"The firearms squad is in place, sir,\" said a lone", "au": "Jeffrey Archer"},
-        {"b": "It was ", "t": "six twenty-two", "a": ", Commander. I happened to glance at the clock.  H", "au": "P.D. James"},
+        {"b": "\"It was ", "t": "six twenty-two", "a": ", Commander. I happened to glance at the clock.\"", "au": "P.D. James"},
         {"b": "l forward. That'll give us the time of the crime. ", "t": "Twenty-two minutes past six", "a": ".", "au": "Agatha Christie"},
     ],
     "18_23": [
@@ -4876,9 +5002,12 @@ QUOTES = {
     "18_43": [
         {"b": "Bev was no clock-watcher, but by ", "t": "18.43", "a": " she'd had enough. A stack of papers at her left e", "au": "Maureen Carter"},
     ],
+    "18_44": [
+        {"b": "At ", "t": "sixteen minutes to seven", "a": " the kitchen light was still on.", "au": "Anonymous"},
+    ],
     "18_45": [
-        {"b": "drink at the Continental at six ten.\"Yes.\"\"And at ", "t": "six forty-five", "a": " you were talking to another journalist at the doo", "au": "Graham Greene"},
-        {"b": "", "t": "Six forty-five", "a": ", called Louie. \"Did you hear, Ming,\" he asked, \"d", "au": "Christina Stead"},
+        {"b": "rink at the Continental at six ten.\"\"Yes.\"\"And at ", "t": "six forty-five", "a": " you were talking to another journalist at the doo", "au": "Graham Greene"},
+        {"b": "\"", "t": "Six forty-five", "a": ",\" called Louie. \"Did you hear, Ming,\" he asked, \"", "au": "Christina Stead"},
         {"b": "It was a ", "t": "quarter to seven", "a": " when I let myself into the office and clicked the", "au": "Raymond Chandler"},
     ],
     "18_46": [
@@ -4905,7 +5034,7 @@ QUOTES = {
     ],
     "18_52": [
         {"b": "in the Town Hall gave them the time. It was just ", "t": "eight minutes to seven", "a": ".\u201cYou\u2019ll be cold,\u201d said Tom, as he noted that Will", "au": "Ralph Henry Barbour"},
-        {"b": "We've missed the train! It's ten \u2014", "t": "eight\u2014 minutes to seven", "a": ", said Arthur, in a voice which combined reproach", "au": "Arnold Bennett"},
+        {"b": "\"We've missed the train! It's ten \u2014", "t": "eight\u2014 minutes to seven", "a": ",\" said Arthur, in a voice which combined reproach", "au": "Arnold Bennett"},
         {"b": "It was ", "t": "near on seven o'clock", "a": " when I got to Mr. and Mrs. Fleming's house on 6th", "au": "Edward P. Jones"},
     ],
     "18_53": [
@@ -4917,7 +5046,7 @@ QUOTES = {
         {"b": "supplies and try to be at the church meeting room ", "t": "a few minutes before seven", "a": ".\"", "au": "Max Apple"},
     ],
     "18_55": [
-        {"b": "tely accurate.\"Haven't I been?\"\"Not quite. It was ", "t": "five to seven", "a": " that you talked to Wilkins.\"\"Another ten minutes.", "au": "Graham Greene"},
+        {"b": "ely accurate.\"\"Haven't I been?\"\"Not quite. It was ", "t": "five to seven", "a": " that you talked to Wilkins.\"\"Another ten minutes.", "au": "Graham Greene"},
         {"b": "at seven o'clock and finish before sunset. It was ", "t": "6:55", "a": ". Beyond the flats we could hear the hockey field", "au": "Jeffrey Eugenides"},
     ],
     "18_56": [
@@ -4929,7 +5058,7 @@ QUOTES = {
     "18_58": [
         {"b": "e mist. When he\u2019d finished, he checked his watch: ", "t": "6:58 P.M.", "a": "", "au": "Jeffrey Archer"},
         {"b": "ck up one of his suits from the dry cleaner\u2019s. At ", "t": "6:58", "a": " she let herself into the house.", "au": "Jeffrey Archer"},
-        {"b": "Walk fast, says Perry, \"it's ", "t": "two minutes to seven", "a": ", and I got to be home by\u2014\"\"Oh, shut up,\" says I.", "au": "O. Henry"},
+        {"b": "\"Walk fast,\" says Perry, \"it's ", "t": "two minutes to seven", "a": ", and I got to be home by\u2014\"\"Oh, shut up,\" says I.", "au": "O. Henry"},
         {"b": "n minutes past five this morning and would set at ", "t": "two minutes before seven", "a": " this evening.", "au": "Donald E Westlake"},
     ],
     "18_59": [
@@ -5033,7 +5162,7 @@ QUOTES = {
         {"b": "Colonel Putnis knocked on his door at ", "t": "7.17 p.m.", "a": " The car was waiting in front of the hotel, and th", "au": "Henning Mankell"},
     ],
     "19_18": [
-        {"b": "It's now exactly ", "t": "eighteen minutes past seven", "a": ", according to Mr. Cartier. It was still raining o", "au": "Irwin Shaw"},
+        {"b": "\"It's now exactly ", "t": "eighteen minutes past seven", "a": ", according to Mr. Cartier.\" It was still raining", "au": "Irwin Shaw"},
     ],
     "19_19": [
         {"b": "can't feel my usual triumph. All I know is, it's ", "t": "seven-nineteen", "a": ", and in eleven minutes I'm supposed to be halfway", "au": "Sophie Kinsella"},
@@ -5042,7 +5171,7 @@ QUOTES = {
         {"b": "en delivered to Lindstrom's home on Grace Cove at ", "t": "seven-twenty P.M.", "a": " It had come in large bundles of hundred-dollar bi", "au": "William Kent Krueger"},
         {"b": "know the operator reported the time of the call: ", "t": "twenty minutes past seven", "a": ".", "au": "P.D. James"},
         {"b": "y did, and at the same times, the woman first, at ", "t": "twenty minutes past seven", "a": ", the boy forty minutes later.", "au": "P.D. James"},
-        {"b": "l. Grant checked the clock, which told him it was ", "t": "7:20 PM", "a": ". \"He's actually a bit late.\"", "au": "Ray Keating"},
+        {"b": ".\" Grant checked the clock, which told him it was ", "t": "7:20 PM", "a": ". \"He's actually a bit late.\"", "au": "Ray Keating"},
         {"b": "d some saccharine tablets. The clock\u2019s hands said ", "t": "seven-twenty", "a": ": it was nineteen-twenty really.", "au": "George Orwell"},
         {"b": "The clock read ", "t": "seven-twenty", "a": ", but I felt no hunger. You'd think I might have w", "au": "Haruki Murakami"},
         {"b": "ived at 7:10 waiting for those who had arrived at ", "t": "7:20", "a": ".", "au": "C. Northcote Parkinson"},
@@ -5065,7 +5194,7 @@ QUOTES = {
     ],
     "19_25": [
         {"b": "n the bishop led the three men on to the stage at ", "t": "7:25 p.m.", "a": ", it was the only time that night when everyone in", "au": "Jeffrey Archer"},
-        {"b": "back at the Heathrow on BA flight 214 arriving at ", "t": "seven twenty-five", "a": ".", "au": "P.D. James"},
+        {"b": "back at the Heathrow on BA flight 214 arriving at ", "t": "seven twenty-five", "a": ".\"", "au": "P.D. James"},
         {"b": "d hello and looked at the clock and it was almost ", "t": "twenty-five after seven", "a": ".", "au": "James Thurber"},
     ],
     "19_26": [
@@ -5077,10 +5206,10 @@ QUOTES = {
     ],
     "19_28": [
         {"b": "we're on twenty-four hour call and I got here at ", "t": "seven twenty-eight", "a": ". We decided to start the investigation at once. T", "au": "P.D. James"},
-        {"b": "It says here that you called your mother at ", "t": "7:28", "a": " p.m. this evening.\"There's some sort of mistake.", "au": "Tom Hilpert"},
+        {"b": "\"It says here that you called your mother at ", "t": "7:28", "a": " p.m. this evening.\"\"There's some sort of mistake.", "au": "Tom Hilpert"},
     ],
     "19_29": [
-        {"b": "seventeen-twenty-two which gets in to Waterloo at ", "t": "nineteen-twenty-nine", "a": ".", "au": "P.D. James"},
+        {"b": "seventeen-twenty-two which gets in to Waterloo at ", "t": "nineteen-twenty-nine", "a": ".\"", "au": "P.D. James"},
         {"b": "he butter makes it down to the floor about a half ", "t": "minute before seven-thirty", "a": ", and McMurphy gets back all the money he lost.", "au": "Ken Kesey"},
     ],
     "19_30": [
@@ -5143,6 +5272,9 @@ QUOTES = {
     "19_43": [
         {"b": "st as the hands of Mallory's timepiece registered ", "t": "7:43 p.m.", "a": "", "au": "Robert F. Young"},
     ],
+    "19_44": [
+        {"b": "", "t": "7:44 P.M.", "a": "Vance watched as the helicopter approached the destroyer.", "au": "Thomas Hoover"},
+    ],
     "19_45": [
         {"b": "ht, or he was last seen alive by Grace Willson at ", "t": "7:45 p.m.", "a": " when he heard her confession. I suppose he died o", "au": "P.D. James"},
         {"b": "At ", "t": "quarter to eight in the evening", "a": ", Emmett was sitting in a run-down saloon at the e", "au": "Amor Towles"},
@@ -5162,8 +5294,8 @@ QUOTES = {
         {"b": "", "t": "7:48 P.M.", "a": "There are sounds of doors opening and closing, wit", "au": "Thomas Hoover"},
     ],
     "19_49": [
-        {"b": "When did you next see Dr. Wellesley?\"At just ", "t": "eleven minutes to eight", "a": ".\"\"Where?\"\"In the surgery.\"\"He came back there?\"\"Y", "au": "J.S. Fletcher"},
-        {"b": "", "t": "Eleven minutes to eight", "a": ".\"You're always right; there must be a clock in yo", "au": "Ray Bradbury"},
+        {"b": "\"When did you next see Dr. Wellesley?\"\"At just ", "t": "eleven minutes to eight", "a": ".\"\"Where?\"\"In the surgery.\"\"He came back there?\"\"Y", "au": "J.S. Fletcher"},
+        {"b": "\"", "t": "Eleven minutes to eight", "a": ".\"\"You're always right; there must be a clock in y", "au": "Ray Bradbury"},
     ],
     "19_50": [
         {"b": "g was arranged for them. A real limousine came at ", "t": "ten minutes to eight", "a": " and took them to the theater. It drew up under th", "au": "Flannery O'Connor"},
@@ -5189,7 +5321,7 @@ QUOTES = {
         {"b": "It was ", "t": "seven fifty-five", "a": " and Detective Inspector Kate Miskin and Detective", "au": "P.D. James"},
         {"b": "At ", "t": "five minutes to eight", "a": " , the Prime Minister emerged from Wilson\u2019s office", "au": "Robert Harris"},
         {"b": "of the sky. Then she glanced at her watch. It was ", "t": "five to eight", "a": ".", "au": "Stella Gibbons"},
-        {"b": "The party starts at ", "t": "eight, and it's five to", "a": ".\"Anything up to half an hour late is considered o", "au": "Jon Hassler"},
+        {"b": "\"The party starts at ", "t": "eight, and it's five to", "a": ".\"\"Anything up to half an hour late is considered", "au": "Jon Hassler"},
     ],
     "19_56": [
         {"b": "ting the sky, without stopping, he replied: \"It's ", "t": "four minutes to eight", "a": ", young Bernardo Juan Franciso.\" His voice was shr", "au": "Jorge Luis Borges"},
@@ -5203,7 +5335,7 @@ QUOTES = {
         {"b": "angdon stole an anxious glance at his wristwatch: ", "t": "7.58 pm", "a": ". The smiling face of Mickey Mouse did little to c", "au": "Dan Brown"},
     ],
     "19_59": [
-        {"b": "It was right at ", "t": "eight o'clock, maybe a minute before", "a": ". I went into the demo room to see if I'd left my", "au": "P.D. James"},
+        {"b": "\"It was right at ", "t": "eight o'clock, maybe a minute before", "a": ". I went into the demo room to see if I'd left my", "au": "P.D. James"},
         {"b": "hue in the last rays of the day\u2019s sunlight. It\u2019s ", "t": "teetering on eight o\u2019clock", "a": ".", "au": "Ginny Kochis"},
         {"b": "Kuniang made her appearance in my study ", "t": "just before eight o' clock", "a": ", arrayed in what had once been a \"party frock.\"", "au": "Daniel Vare"},
         {"b": "Quickly, quickly. ", "t": "A minute to eight", "a": ". My hot water bottle was ready, and I filled a gl", "au": "Diane Setterfield"},
@@ -5243,7 +5375,7 @@ QUOTES = {
         {"b": "table in the newspapers. An evening train went at ", "t": "two minutes past eight", "a": ". \"Yes, I shall be in time.\"", "au": "Leo Tolstoy"},
     ],
     "20_03": [
-        {"b": "ave cut her down. When did you say you found her? ", "t": "Three minutes after eight", "a": ".", "au": "P.D. James"},
+        {"b": "ave cut her down. When did you say you found her? ", "t": "Three minutes after eight", "a": ".\"", "au": "P.D. James"},
         {"b": ":45 or 6:30, Jasper, but pick times like 7:12 and ", "t": "8:03", "a": "!\"", "au": "Steve Toltz"},
         {"b": "ing pills. I noticed that my watch had stopped at ", "t": "three minutes past eight", "a": ", and I wondered if that was the exact time our ba", "au": "Alice Feeny"},
     ],
@@ -5253,11 +5385,11 @@ QUOTES = {
     "20_05": [
         {"b": "When you left by the Devereux Court gate at about ", "t": "five minutes past eight", "a": ", did you see anyone in Pawlet Court or entering M", "au": "P.D. James"},
         {"b": "ity during this interview, and that it now marked ", "t": "five minutes past eight", "a": ".", "au": "Henry James"},
-        {"b": "Well, it\u2019s ", "t": "five-past eight", "a": " now, I said to Drake. \"You\u2019d better go straight o", "au": "Anthony Quayle"},
+        {"b": "\"Well, it\u2019s ", "t": "five-past eight", "a": " now,\" I said to Drake. \"You\u2019d better go straight", "au": "Anthony Quayle"},
     ],
     "20_06": [
         {"b": "ie. I give up. Escorted to elevator. Check watch: ", "t": "8:06", "a": ". Not bad. Enter West Sitting Hall.\u201cGood evening,", "au": "Jeffrey Archer"},
-        {"b": "It was ", "t": "six minutes past eight", "a": " when I arrived at the lighthouse. I was unable to", "au": "P.D. James"},
+        {"b": "\"It was ", "t": "six minutes past eight", "a": " when I arrived at the lighthouse. I was unable to", "au": "P.D. James"},
     ],
     "20_07": [
         {"b": "ened my eyes and I looked at my watch and it said ", "t": "8:07 p.m.", "a": " and I had been sitting on the bench for approxima", "au": "Mark Haddon"},
@@ -5339,7 +5471,7 @@ QUOTES = {
         {"b": "ago.\"Lindell looked up. \"Exactly?\"\"Yes, exactly. ", "t": "Twenty-eight minutes past eight", "a": ", on this exact date twenty-five years ago.\"", "au": "Kjell Eriksson"},
     ],
     "20_29": [
-        {"b": "", "t": "Twenty-nine and a half minutes past eight", "a": ", sir. And then, from habit, he glanced at the clo", "au": "O. Henry"},
+        {"b": "\"", "t": "Twenty-nine and a half minutes past eight", "a": ", sir.\" And then, from habit, he glanced at the cl", "au": "O. Henry"},
         {"b": "At ", "t": "8.29", "a": " I punched the front doorbell in Elgin Crescent. I", "au": "Sebastian Faulks"},
     ],
     "20_30": [
@@ -5386,7 +5518,7 @@ QUOTES = {
         {"b": "", "t": "8:39 P.M.", "a": "Cally was thinking about how much she would love a", "au": "Thomas Hoover"},
     ],
     "20_40": [
-        {"b": "utside the gate at ten past eight. I waited until ", "t": "eight-forty", "a": ". Venetia never came.", "au": "P.D. James"},
+        {"b": "utside the gate at ten past eight. I waited until ", "t": "eight-forty", "a": ". Venetia never came.\"", "au": "P.D. James"},
         {"b": "the seventeenth. That was so. They were seated at ", "t": "twenty minutes to nine", "a": ". It's a little foible of mine, to note the time t", "au": "P.D. James"},
         {"b": "lowed them and just said, \"Yes.\" \"Waiting for the ", "t": "8.40", "a": ", are you?\" \"Is there any other?\"\"Well, no. Not th", "au": "Catherine Fisher"},
         {"b": "in detail, and saw that her watch had stopped at ", "t": "twenty minutes to nine", "a": ", and that a clock in the room had stopped at twen", "au": "Charles Dickens"},
@@ -5400,7 +5532,12 @@ QUOTES = {
         {"b": "The hand at this moment pointed to ", "t": "8.42", "a": ". The players took up their cards, but their eyes", "au": "Jules Verne"},
     ],
     "20_43": [
-        {"b": "on both counts. Cavalli checked his watch again: ", "t": "8:43", "a": ".|Honor Among Thieves|Jeffrey Archer|sfw20:43|20.4", "au": "Jules Verne"},
+        {"b": "on both counts. Cavalli checked his watch again: ", "t": "8:43", "a": ".", "au": "Jeffrey Archer"},
+        {"b": "le. The SBS can\u2019t make a move until after sunset, ", "t": "20.43", "a": " local time, which isn\u2019t\u2019 \u2013 he checked his watch \u2013", "au": "Jeffrey Archer"},
+        {"b": "'", "t": "8.43", "a": ",' said Thomas Flanagan, as he cut the cards place", "au": "Jules Verne"},
+    ],
+    "20_44": [
+        {"b": "every sixtieth of a minute as it struck his ear. \"", "t": "8.44!", "a": "\" said John Sullivan, in a voice that betrayed his", "au": "Jules Verne"},
     ],
     "20_45": [
         {"b": "When it got to be ", "t": "a quarter to nine", "a": " and still no one had shown up, Gardener began to", "au": "Stephen King"},
@@ -5416,7 +5553,7 @@ QUOTES = {
         {"b": "It read ", "t": "20:47", "a": " on the cooker clock when Fliss heard the jangle o", "au": "Catherine Miller"},
     ],
     "20_48": [
-        {"b": "It only wants ", "t": "twelve minutes to nine", "a": ", Constance pointed out. \"Well, what if it does?\"", "au": "Arnold Bennett"},
+        {"b": "\"It only wants ", "t": "twelve minutes to nine", "a": ",\" Constance pointed out. \"Well, what if it does?\"", "au": "Arnold Bennett"},
     ],
     "20_49": [
         {"b": "At ", "t": "8:49", "a": " there was a loud rap on the door, and Sir Hamish", "au": "Jeffrey Archer"},
@@ -5456,12 +5593,12 @@ QUOTES = {
         {"b": "ain at the clock in the tower. The hands stood at ", "t": "three minutes to nine", "a": ".", "au": "O. Henry"},
     ],
     "20_58": [
-        {"b": "time is it? she asked, quiet, definite, hopeless.\"", "t": "Two minutes to nine", "a": ",\" he replied, telling the truth with a struggle.", "au": "D.H. Lawrence"},
+        {"b": "ime is it?\" she asked, quiet, definite, hopeless.\"", "t": "Two minutes to nine", "a": ",\" he replied, telling the truth with a struggle.", "au": "D.H. Lawrence"},
     ],
     "20_59": [
         {"b": "report back to the guardroom sober as a judge at ", "t": "one minute before nine", "a": ".", "au": "Jeffrey Archer"},
         {"b": "ant would have put [the television] on for him at ", "t": "one minute to nine", "a": ". He sat watching a Nigerian woman give a talk on", "au": "Jeffrey Archer"},
-        {"b": "what an amazing culinary experience, Eva said at ", "t": "8:59 p.m.", "a": ", when Prager\u2019s car parked in front of her apartme", "au": "J. Ryan Stradal"},
+        {"b": "what an amazing culinary experience,\" Eva said at ", "t": "8:59 p.m.", "a": ", when Prager\u2019s car parked in front of her apartme", "au": "J. Ryan Stradal"},
     ],
     "21_00": [
         {"b": "ed so punctually, for whom the lights went out at ", "t": "nine o'clock", "a": ", could stay at Obermeier Farm until the fireflies", "au": "Edna Hong"},
@@ -5527,7 +5664,7 @@ QUOTES = {
     "21_10": [
         {"b": "ng to be back at the airport in time to board the ", "t": "21:10", "a": " to Heathrow, he would only have twenty or thirty", "au": "Jeffrey Archer"},
         {"b": "ryone who knew her. And the news on Sunday was at ", "t": "9.10", "a": ".", "au": "P.D. James"},
-        {"b": "ways been there before the rest of us. But it was ", "t": "ten past nine", "a": " when you arrived.", "au": "P.D. James"},
+        {"b": "ways been there before the rest of us. But it was ", "t": "ten past nine", "a": " when you arrived.\"", "au": "P.D. James"},
         {"b": "", "t": "9:10 p.m.", "a": " \"When you turn your recorder on you must adjust c", "au": "Helen Fielding"},
     ],
     "21_11": [
@@ -5588,7 +5725,7 @@ QUOTES = {
     ],
     "21_26": [
         {"b": "It was ", "t": "twenty-six minutes past nine", "a": ". As he had expected, and as had happened every ni", "au": "Arthur Stringer"},
-        {"b": "The terrorists, he began, \"crossed the border at ", "t": "21.26", "a": " last night. Four passports were presented to the", "au": "Jeffrey Archer"},
+        {"b": "The terrorists,\" he began, \"crossed the border at ", "t": "21.26", "a": " last night. Four passports were presented to the", "au": "Jeffrey Archer"},
     ],
     "21_27": [
         {"b": "antly handed over another five thousand francs.At ", "t": "9:27", "a": " the phone rang.", "au": "Jeffrey Archer"},
@@ -5624,7 +5761,7 @@ QUOTES = {
         {"b": "It must have been about ", "t": "twenty-seven minutes to ten", "a": " when I reached the summer-house. Ralph was waitin", "au": "Agatha Christie"},
     ],
     "21_34": [
-        {"b": "Thanks; expect me ", "t": "9.34 p.m.", "a": " 26th; which produced, three hours later, a reply:", "au": "Erskine Childers"},
+        {"b": "\"Thanks; expect me ", "t": "9.34 p.m.", "a": " 26th\"; which produced, three hours later, a reply", "au": "Erskine Childers"},
     ],
     "21_35": [
         {"b": "ensington Palace Gardens. Adam checked his watch: ", "t": "nine thirty-five", "a": ".", "au": "Jeffrey Archer"},
@@ -5636,7 +5773,7 @@ QUOTES = {
         {"b": "there was nothing else to do. Mom tucked me in at ", "t": "9:36", "a": ".", "au": "Jonathan Safran Foer"},
     ],
     "21_37": [
-        {"b": "this happen?\"We received the treble nine call at ", "t": "21:37 hours", "a": ",\" he answered, checking his notes. \"What made her", "au": "Stephen Coill"},
+        {"b": "this happen?\"\"We received the treble nine call at ", "t": "21:37 hours", "a": ",\" he answered, checking his notes. \"What made her", "au": "Stephen Coill"},
     ],
     "21_38": [
         {"b": "At ", "t": "nine thirty-eight", "a": " the waiter came back and offered us a second help", "au": "David Footman"},
@@ -5656,6 +5793,9 @@ QUOTES = {
     "21_43": [
         {"b": "", "t": "9:43 P.M.", "a": "\"We'll be working together, kid,\" Dore Peretz was", "au": "Thomas Hoover"},
     ],
+    "21_44": [
+        {"b": "The island fell at ", "t": "sixteen minutes to ten o'clock", "a": " that January night in 1671.", "au": "Charles Stough"},
+    ],
     "21_45": [
         {"b": "ar occupied it.My dance ended as the clock struck ", "t": "the quarter before ten", "a": ".", "au": "Gail Carson Levine"},
         {"b": "ngs available to man-Cody Menhoff's was closed at ", "t": "9:45 PM", "a": " on a Thursday...", "au": "T.C. Boyle"},
@@ -5665,15 +5805,15 @@ QUOTES = {
     ],
     "21_47": [
         {"b": "imum of pain.\u201d He checked his watch; the time was ", "t": "9:47", "a": ". He covered his patient with a blanket and called", "au": "Jeffrey Archer"},
-        {"b": "Right. . . ", "t": "nine forty-seven", "a": " and nine forty-eight. They died at the same time.", "au": "Jim Butcher"},
+        {"b": "\"Right. . . ", "t": "nine forty-seven", "a": " and nine forty-eight. They died at the same time.", "au": "Jim Butcher"},
         {"b": "ote times exactly, the final emergency started at ", "t": "thirteen minutes to ten", "a": ".", "au": "C.J. Driver"},
     ],
     "21_48": [
-        {"b": "Right. . . nine forty-seven and ", "t": "nine forty-eight", "a": ". They died at the same time.\"That's not the same", "au": "Jim Butcher"},
-        {"b": "This is the body I first saw at ", "t": "nine-forty-eight", "a": " on Friday the fifteenth of October at Innocent Ho", "au": "P.D. James"},
+        {"b": "\"Right. . . nine forty-seven and ", "t": "nine forty-eight", "a": ". They died at the same time.\"\"That's not the same", "au": "Jim Butcher"},
+        {"b": "\"This is the body I first saw at ", "t": "nine-forty-eight", "a": " on Friday the fifteenth of October at Innocent Ho", "au": "P.D. James"},
     ],
     "21_49": [
-        {"b": "inked. I read the listing. \"May the fifteenth, at ", "t": "eleven minutes to ten", "a": ". So?\"\"Now look at when the object file was create", "au": "Malorie Blackman"},
+        {"b": "nked.\" I read the listing. \"May the fifteenth, at ", "t": "eleven minutes to ten", "a": ". So?\"\"Now look at when the object file was create", "au": "Malorie Blackman"},
     ],
     "21_50": [
         {"b": "ed on to the bed, job done. He checked his watch: ", "t": "9:50 p.m.", "a": " It was going to be a long wait.", "au": "Jeffrey Archer"},
@@ -5720,7 +5860,7 @@ QUOTES = {
         {"b": "erberate. Few cars passed on Route 114, and after ", "t": "ten o\u2019clock", "a": " or so there were none at all. After ten, the part", "au": "Stephen King"},
         {"b": "At ", "t": "ten o\u2019clock", "a": ", he went to Shinjuku and bought a Fujitsu word pr", "au": "Haruki Murakami"},
         {"b": "there in the windows; all lights extinguished by ", "t": "ten o\u2019clock", "a": ".", "au": "Victor Hugo"},
-        {"b": "It was ", "t": "ten o\u2019clock", "a": ". And now he is dead, and the police will be calle", "au": "Sir Arthur Conan Doyle"},
+        {"b": "\"It was ", "t": "ten o\u2019clock", "a": ". And now he is dead, and the police will be calle", "au": "Sir Arthur Conan Doyle"},
         {"b": "ea what else to do. I turned on the TV set and pre", "t": "ten", "a": "ded to watch baseball. And gazed at the indetermin", "au": "Haruki Murakami"},
         {"b": "that open tomb of an Avenue de Breteuil which at ", "t": "ten o\u2019clock in the evening", "a": " is so silent, so dead, that it makes one think of", "au": "Henry Miller"},
         {"b": "It was ", "t": "ten at night", "a": " and everyone had gone home. I trudged up the dark", "au": "Ottessa Moshfegh"},
@@ -5758,7 +5898,7 @@ QUOTES = {
     ],
     "22_05": [
         {"b": "took John (and me) downstairs to the ambulance at ", "t": "10:05 p.m.", "a": "", "au": "Joan Didion"},
-        {"b": "o know by-he looked at the watch on his wrist-\"by ", "t": "ten-oh-five", "a": " tomorrow night, you will be executed. You and the", "au": "Margaret Peterson Haddix"},
+        {"b": "know by\"-he looked at the watch on his wrist-\"by ", "t": "ten-oh-five", "a": " tomorrow night, you will be executed. You and the", "au": "Margaret Peterson Haddix"},
     ],
     "22_06": [
         {"b": "to be fussy on such a night. And then it was long ", "t": "after ten o'clock", "a": " and yet there was no sign of Gabriel and his wife", "au": "James Joyce"},
@@ -5771,7 +5911,7 @@ QUOTES = {
     ],
     "22_08": [
         {"b": "the wardrobe door. He looked at his watch. It was ", "t": "eight minutes past ten", "a": ".", "au": "P.D. James"},
-        {"b": "tle fast, I said. \"What time do you make it now?\"\"", "t": "Ten eight", "a": ".\"\"Ten eighteen by mine. You see.\"", "au": "Graham Greene"},
+        {"b": "le fast,\" I said. \"What time do you make it now?\"\"", "t": "Ten eight", "a": ".\"\"Ten eighteen by mine. You see.\"", "au": "Graham Greene"},
     ],
     "22_09": [
         {"b": "The hour was ", "t": "nine minutes past ten", "a": ". My teeth began to chatter of sheer excitement.", "au": "Dornford Yates"},
@@ -5790,7 +5930,7 @@ QUOTES = {
         {"b": "e, given their size and the bags' size. It was c. ", "t": "2212", "a": ":30-40h., smack in the middle of the former Interv", "au": "David Foster Wallace"},
     ],
     "22_13": [
-        {"b": "It's ", "t": "ten-thirteen", "a": ", announced Clancy. \"In two more minutes-\"\"Post ti", "au": "Ray Bradbury"},
+        {"b": "\"It's ", "t": "ten-thirteen", "a": ",\" announced Clancy. \"In two more minutes-\"\"Post t", "au": "Ray Bradbury"},
     ],
     "22_14": [
         {"b": "omen lean in slightly towards each other. Call it ", "t": "2214", "a": ":10h.", "au": "David Foster Wallace"},
@@ -5835,7 +5975,7 @@ QUOTES = {
         {"b": "Thanks to ten minutes or so of balmy weather, by ", "t": "10:24", "a": " the Earth is covered in the great carboniferous f", "au": "Bill Bryson"},
     ],
     "22_25": [
-        {"b": "taft always puts on the hot milk at ten. At about ", "t": "twenty-five minutes after", "a": " we saw Sally carrying her mug up to her room.", "au": "P.D. James"},
+        {"b": "taft always puts on the hot milk at ten. At about ", "t": "twenty-five minutes after", "a": " we saw Sally carrying her mug up to her room.\"", "au": "P.D. James"},
         {"b": "ension. Glancing at his watch, he saw that it was ", "t": "10:25", "a": ". He would arrive precisely on time.", "au": "P.D. James"},
         {"b": "\u201cThe last phone call came at ", "t": "ten twenty-five p.m.", "a": " that night when I was listening to Erroll Garner\u2019", "au": "Haruki Murakami"},
         {"b": "", "t": "10:25 p.m.", "a": " Have got new cassette in now. Right. Turn to \"Rec", "au": "Helen Fielding"},
@@ -5874,7 +6014,7 @@ QUOTES = {
         {"b": "He looked at his watch: ", "t": "10.33", "a": ". He remembered being told, he couldn't recall whe", "au": "P.D. James"},
     ],
     "22_34": [
-        {"b": "ou please. You went to bed at what time, Madame? \"", "t": "Just after half past ten.", "a": "\"", "au": "Agatha Christie"},
+        {"b": "u please. You went to bed at what time, Madame?\" \"", "t": "Just after half past ten.", "a": "\"", "au": "Agatha Christie"},
     ],
     "22_35": [
         {"b": "he asked the first uniformed official he spotted.\u201c", "t": "Ten thirty-five", "a": ", sir, but you can\u2019t leave your car there.\u201d", "au": "Jeffrey Archer"},
@@ -5886,7 +6026,7 @@ QUOTES = {
         {"b": "Our take-off time was ", "t": "22.36", "a": " and as I lifted the heavy plane into the starlit", "au": "Hammond Innes"},
     ],
     "22_37": [
-        {"b": "At ", "t": "10:37 p.m.", "a": " that night a fireball rips through Obscurity, kil", "au": "Jasper Fforde"},
+        {"b": "\"At ", "t": "10:37 p.m.", "a": " that night a fireball rips through Obscurity, kil", "au": "Jasper Fforde"},
     ],
     "22_38": [
         {"b": "as someone hung up the phone. It had been left at ", "t": "22.38", "a": " the previous evening. Jack didn't have much doubt", "au": "Chris Ryan"},
@@ -5906,7 +6046,7 @@ QUOTES = {
         {"b": "mayor of Aurora, one at 9:57 P.M. and another at ", "t": "10:41 P.M.", "a": " If Lipinski had teenagers who knew about the part", "au": "William Kent Krueger"},
     ],
     "22_42": [
-        {"b": "fell to the stage, the knife in his neck. It was ", "t": "eighteen minutes to eleven", "a": ".", "au": "Raoul Whitfield"},
+        {"b": "fell to the stage, the knife in his neck. It was ", "t": "eighteen minutes to eleven", "a": ".\"", "au": "Raoul Whitfield"},
     ],
     "22_43": [
         {"b": "Sebastian checked his watch: ", "t": "10:43 p.m.", "a": " \u201cThen let\u2019s go and find out if he\u2019s still awake.\u201d", "au": "Jeffrey Archer"},
@@ -5954,7 +6094,7 @@ QUOTES = {
     "22_55": [
         {"b": "y after listening to the Dvorak String Quartet at ", "t": "ten fifty-five", "a": " - they had twin beds - and didn't stir until her", "au": "P.D. James"},
         {"b": "At ", "t": "10:55", "a": " they would enter the Farholme Gate, emerging a me", "au": "Chris Walley"},
-        {"b": "It is eleven o'clock! ", "t": "Eleven o'clock, all but five minutes!", "a": "\"But which eleven o'clock?\"\"The eleven o'clock tha", "au": "Gaston Leroux"},
+        {"b": "\"It is eleven o'clock! ", "t": "Eleven o'clock, all but five minutes!", "a": "\"\"But which eleven o'clock?\"\"The eleven o'clock th", "au": "Gaston Leroux"},
         {"b": "Mr. Justice Wargrave said:\u201cIt is now ", "t": "five minutes to eleven", "a": ". I think we should summon Miss Brent to join our", "au": "Agatha Christie"},
     ],
     "22_56": [
@@ -6030,7 +6170,7 @@ QUOTES = {
         {"b": "is my first pass,\u201d Wilson said. \u201cEast to west, at ", "t": "11:08", "a": ". We\u2019re looking from the left-wing camera which is", "au": "Michael Crichton"},
     ],
     "23_09": [
-        {"b": "The time is ", "t": "11:09", "a": " at that point, Powell said to the D.A.'s staff. \"", "au": "Alfred Bester"},
+        {"b": "\"The time is ", "t": "11:09", "a": " at that point,\" Powell said to the D.A.'s staff.", "au": "Alfred Bester"},
     ],
     "23_10": [
         {"b": "o that was how I spent Christmas night from about ", "t": "ten past eleven", "a": " until nearly two in the morning, playing endless", "au": "P.D. James"},
@@ -6092,8 +6232,11 @@ QUOTES = {
         {"b": "", "t": "11:24 P.M.", "a": "Willem Voorst was at the controls of the Cessna as", "au": "Thomas Hoover"},
     ],
     "23_25": [
-        {"b": "OK, Estelle, I will be at Nice Airport at ", "t": "11.25 p.m.", "a": " on Saturday, BA: Could you send the driver?", "au": "Justin Cartwright"},
+        {"b": "\"OK, Estelle, I will be at Nice Airport at ", "t": "11.25 p.m.", "a": " on Saturday, BA: Could you send the driver?\"", "au": "Justin Cartwright"},
         {"b": "inly visible, and the hands indicated the hour of ", "t": "eleven o'clock and twenty-five minutes", "a": ". At that moment the mysterious illumination sudde", "au": "Ambrose Bierce"},
+    ],
+    "23_26": [
+        {"b": "Los Angeles. ", "t": "11:26 p.m.", "a": " In a dark red room, a tall woman dressed in black.", "au": "Neil Gaiman"},
     ],
     "23_27": [
         {"b": "At ", "t": "11:27 P.M.", "a": " Jean-Pierre left quietly and returned to the soli", "au": "Jeffrey Archer"},
@@ -6143,11 +6286,11 @@ QUOTES = {
         {"b": "Jon and Randi reported the same.\"It's ", "t": "twenty-two minutes to midnight", "a": ",\" Randi added. \"So little time.\"They sped to the", "au": "Robert Ludlum"},
     ],
     "23_39": [
-        {"b": "Time? Raith asked. \"", "t": "Eleven-thirty-nine", "a": ", my lord,\" the bodyguard reported.\"Ah, good. Stil", "au": "Jim Butcher"},
+        {"b": "\"Time?\" Raith asked. \"", "t": "Eleven-thirty-nine", "a": ", my lord,\" the bodyguard reported.\"Ah, good. Stil", "au": "Jim Butcher"},
         {"b": "There's a whisper down the line at ", "t": "11.39", "a": "When the Night Mail's ready to depart, Saying \"Ski", "au": "T.S. Eliot"},
     ],
     "23_40": [
-        {"b": "It was about ", "t": "twenty minutes to twelve", "a": ". It was then I heard the lift. It's opposite Sist", "au": "P.D. James"},
+        {"b": "\"It was about ", "t": "twenty minutes to twelve", "a": ". It was then I heard the lift. It's opposite Sist", "au": "P.D. James"},
         {"b": "Grant noticed the time. \"It's ", "t": "20 minutes until midnight", "a": ". Who wants to help me hand out glasses and pour c", "au": "Ray Keating"},
         {"b": "cohol intake to compensate. Then I saw the clock: ", "t": "11:40 pm", "a": ". I picked up the phone and ordered a taxi. With a", "au": "Graeme Simsion"},
         {"b": "", "t": "Twenty minutes before midnight", "a": ", before Oliver put an end to the festivities, she", "au": "Emilya Naymark"},
@@ -6166,7 +6309,7 @@ QUOTES = {
         {"b": "The clock told him it was ", "t": "eleven forty-three", "a": " and in that moment, in a flash of illumination, M", "au": "Ruth Rendell"},
     ],
     "23_44": [
-        {"b": "At ", "t": "eleven forty-four", "a": " last night somebody stabbed this girl in the neck", "au": "Ben Elton"},
+        {"b": "\"At ", "t": "eleven forty-four", "a": " last night somebody stabbed this girl in the neck", "au": "Ben Elton"},
     ],
     "23_45": [
         {"b": "It was a ", "t": "quarter to twelve", "a": " when the service was over. When he reached home,", "au": "Anton Pavlovich Chekhov"},
@@ -6195,7 +6338,7 @@ QUOTES = {
     ],
     "23_51": [
         {"b": "Virginia checked her watch: ", "t": "nine minutes to twelve", "a": ". She had kept her side of the bargain. She presse", "au": "Jeffrey Archer"},
-        {"b": "Due at Waterloo at ", "t": "eleven-fifty-one", "a": ", panted Smith. \"That gives us thirty-nine minutes", "au": "Sax Rohmer"},
+        {"b": "\"Due at Waterloo at ", "t": "eleven-fifty-one", "a": ",\" panted Smith. \"That gives us thirty-nine minute", "au": "Sax Rohmer"},
     ],
     "23_52": [
         {"b": "ide, it was dark. My phone said it was January 6, ", "t": "11:52 P.M.", "a": "", "au": "Ottessa Moshfegh"},
@@ -6214,14 +6357,14 @@ QUOTES = {
     "23_55": [
         {"b": "The band began playing \u201cAuld Lang Syne.\u201d\u201c", "t": "Eleven fifty-five", "a": ",\u201d she said, glancing at the gold watch on her pen", "au": "Haruki Murakami"},
         {"b": "at Union Station, the giant clock tells us it is ", "t": "five minutes to midnight", "a": ". This is significant, because humans consider mid", "au": "Simon Stephenson"},
-        {"b": "g to lock you in. It is- he consulted his watch, \"", "t": "five minutes to midnight", "a": ". Miss Granger, three turns should do it. Good luc", "au": "J.K. Rowling"},
+        {"b": "to lock you in. It is-\" he consulted his watch, \"", "t": "five minutes to midnight", "a": ". Miss Granger, three turns should do it. Good luc", "au": "J.K. Rowling"},
     ],
     "23_56": [
         {"b": "sday clock ticks on. It's stopped for a decade at ", "t": "four minutes to midnight", "a": ", but there the hands still stand. Any minute now", "au": "Fay Weldon"},
     ],
     "23_57": [
-        {"b": "It said ", "t": "three minutes to midnight", "a": ". That didn't seem so very late in the mood I was", "au": "P.D. James"},
-        {"b": "", "t": "Eleven fifty-seven", "a": ", he said. Wells nodded. By the old woman's calend", "au": "Cormac McCarthy"},
+        {"b": "\"It said ", "t": "three minutes to midnight", "a": ". That didn't seem so very late in the mood I was", "au": "P.D. James"},
+        {"b": "\"", "t": "Eleven fifty-seven", "a": ",\" he said. Wells nodded. By the old woman's calen", "au": "Cormac McCarthy"},
     ],
     "23_58": [
         {"b": "Humans emerge ", "t": "one minute and seventeen seconds before midnight", "a": ". The whole of our recorded history, on this scale", "au": "Bill Bryson"},
@@ -6245,15 +6388,10 @@ def _pad(n):
 def main(config):
     tz = config.get("timezone", DEFAULT_TZ)
 
-    time_override = config.get("time", "")
-    if len(time_override) == 5:
-        hour = int(time_override[0:2])
-        minute = int(time_override[3:5])
-    else:
-        now = time.now().in_location(tz)
-        hour = now.hour
-        minute = now.minute
+    now = time.now().in_location(tz)
 
+    hour = now.hour
+    minute = now.minute
     key = _pad(hour) + "_" + _pad(minute)
 
     entries = QUOTES.get(key, [])

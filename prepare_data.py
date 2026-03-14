@@ -38,7 +38,7 @@ def main():
         raw = resp.read().decode("utf-8")
 
     print("Parsing rows ...")
-    reader = csv.reader(raw.splitlines(), delimiter="|")
+    reader = csv.reader(raw.splitlines(), delimiter="|", quotechar="\x00")
 
     quotes = defaultdict(list)
     skipped_sfw = 0
